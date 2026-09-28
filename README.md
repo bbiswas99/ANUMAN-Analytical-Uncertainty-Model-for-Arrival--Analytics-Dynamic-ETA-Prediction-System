@@ -96,7 +96,7 @@ npm install
 npm run dev
 ```
 
-The frontend reads its API address from `frontend/.env.local` (`VITE_API_BASE_URL=http://localhost:8000`).
+The frontend reads its API address from `frontend/.env.local` (`VITE_API_BASE_URL=http://localhost:5173`).
 
 ## Documentation
 
