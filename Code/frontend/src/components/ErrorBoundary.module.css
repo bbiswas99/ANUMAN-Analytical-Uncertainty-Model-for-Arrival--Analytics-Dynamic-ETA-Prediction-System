@@ -1,0 +1,32 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--clr-bg);
+  padding: var(--sp-6);
+}
+.card {
+  background: var(--clr-surface);
+  border: 1px solid var(--clr-border);
+  border-radius: var(--r-lg);
+  box-shadow: var(--shadow-lg);
+  padding: var(--sp-10);
+  text-align: center;
+  max-width: 420px;
+  width: 100%;
+}
+.icon { font-size: 48px; margin-bottom: var(--sp-4); }
+.title {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--clr-text);
+  margin-bottom: var(--sp-3);
+}
+.message {
+  font-size: 14px;
+  color: var(--clr-text-2);
+  line-height: 1.6;
+  margin-bottom: var(--sp-6);
+}
+.btn { width: 100%; }

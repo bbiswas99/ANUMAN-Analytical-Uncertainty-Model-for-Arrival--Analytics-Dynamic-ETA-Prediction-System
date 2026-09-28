@@ -70,7 +70,7 @@ Model A cuts the baseline error by roughly **73%**. About 59% of Model B predict
 
 - **Frontend:** React, Vite, Leaflet
 - **Backend:** Python, FastAPI, Uvicorn
-- **ML / data:** XGBoost, scikit-learn, pandas, NumPy, PyArrow (Parquet)
+- **ML / data:** LightGBM, XGBoost, scikit-learn, pandas, NumPy, PyArrow (Parquet)
 - **Geospatial:** OpenStreetMap / Geofabrik, osmium, networkx
 - **Planned hosting:** Render or Railway (backend), Hostinger (frontend)
 

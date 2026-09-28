@@ -1,0 +1,19 @@
+.panel { position: relative; }
+.demoTag { position: absolute; top: var(--sp-3); right: var(--sp-3); }
+.loading, .unavailable { font-size: 13px; color: var(--clr-text-3); padding: var(--sp-2) 0; }
+
+.list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-2);
+  margin-top: var(--sp-2);
+}
+.item {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--sp-3);
+  animation: fadeInUp var(--dur-med) var(--ease) both;
+}
+.bullet { font-size: 15px; flex-shrink: 0; margin-top: 1px; }
+.text { font-size: 13px; color: var(--clr-text); line-height: 1.5; }

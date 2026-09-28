@@ -1,0 +1,14 @@
+.venv/
+node_modules/
+dist/
+build/
+.git/
+graphify-8/
+ponytail-main/
+graphify-out/
+.system_generated/
+__pycache__/
+*.parquet
+*.csv
+*.jsonl
+Deployment/

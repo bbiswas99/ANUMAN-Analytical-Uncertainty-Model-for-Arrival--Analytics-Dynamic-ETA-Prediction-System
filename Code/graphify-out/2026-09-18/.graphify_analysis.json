@@ -1,0 +1,808 @@
+{
+  "communities": {
+    "0": [
+      "backend_errors",
+      "backend_errors_configurationerror",
+      "backend_errors_generic_error_handler",
+      "backend_errors_invalidtrainnumbererror",
+      "backend_errors_modelnotloadederror",
+      "backend_errors_noactivejourneyerror",
+      "backend_errors_outofrangefeatureerror",
+      "backend_errors_rationale_104",
+      "backend_errors_rationale_17",
+      "backend_errors_rationale_35",
+      "backend_errors_rationale_41",
+      "backend_errors_rationale_47",
+      "backend_errors_rationale_53",
+      "backend_errors_rationale_59",
+      "backend_errors_rationale_65",
+      "backend_errors_rationale_71",
+      "backend_errors_rationale_88",
+      "backend_errors_register_error_handlers",
+      "backend_errors_schemavalidationerror",
+      "backend_errors_traineta_error_handler",
+      "backend_errors_trainetaerror",
+      "backend_errors_trainetaerror_init",
+      "backend_errors_trainetaerror_to_response",
+      "backend_errors_whatifoverrideinvaliderror",
+      "backend_main",
+      "backend_main_apply_what_if_overrides",
+      "backend_main_delay_label",
+      "backend_main_encode_features_for_inference",
+      "backend_main_encode_features_for_model_b",
+      "backend_main_explain",
+      "backend_main_get_train_latest_snapshot",
+      "backend_main_get_train_precedence_conflicts",
+      "backend_main_health",
+      "backend_main_list_trains",
+      "backend_main_minutes_to_hhmm",
+      "backend_main_modelstore",
+      "backend_main_precedence",
+      "backend_main_predict",
+      "backend_main_py_dataframe",
+      "backend_main_py_series",
+      "backend_main_rationale_1052",
+      "backend_main_rationale_125",
+      "backend_main_rationale_140",
+      "backend_main_rationale_292",
+      "backend_main_rationale_352",
+      "backend_main_rationale_391",
+      "backend_main_rationale_413",
+      "backend_main_rationale_470",
+      "backend_main_rationale_540",
+      "backend_main_rationale_604",
+      "backend_main_rationale_630",
+      "backend_main_rationale_851",
+      "backend_main_rationale_953",
+      "backend_main_replay",
+      "backend_main_safe_float",
+      "backend_main_startup_check_and_load_model",
+      "exception",
+      "get",
+      "ndarray",
+      "on_event",
+      "request"
+    ],
+    "1": [
+      "frontend_src_app",
+      "frontend_src_app_app",
+      "frontend_src_app_tabs",
+      "frontend_src_components_confidencebar",
+      "frontend_src_components_confidencebar_confidencebar",
+      "frontend_src_components_errorboundary",
+      "frontend_src_components_errorboundary_errorboundary",
+      "frontend_src_components_errorboundary_errorboundary_componentdidcatch",
+      "frontend_src_components_errorboundary_errorboundary_constructor",
+      "frontend_src_components_errorboundary_errorboundary_getderivedstatefromerror",
+      "frontend_src_components_errorboundary_errorboundary_render",
+      "frontend_src_components_etacard",
+      "frontend_src_components_etacard_etacard",
+      "frontend_src_components_livereplaycontrols",
+      "frontend_src_components_livereplaycontrols_speed_options",
+      "frontend_src_components_trackmap",
+      "frontend_src_components_trackmap_default_center",
+      "frontend_src_components_trackmap_mapboundsupdater",
+      "frontend_src_components_trackmap_trackmap",
+      "frontend_src_components_trackmap_train_icon",
+      "frontend_src_components_trainselector",
+      "frontend_src_components_trainselector_trainselector",
+      "frontend_src_components_trainselector_trainselector_handleclear",
+      "frontend_src_components_trainselector_trainselector_handleclick",
+      "frontend_src_components_trainselector_trainselector_handleinputchange",
+      "frontend_src_components_trainselector_trainselector_handlelistscroll",
+      "frontend_src_components_trainselector_trainselector_handleselect",
+      "frontend_src_hooks_useprediction",
+      "frontend_src_hooks_useprediction_useprediction",
+      "frontend_src_main",
+      "frontend_src_tabs_opsview",
+      "frontend_src_tabs_opsview_detailrow",
+      "frontend_src_tabs_opsview_extractwhatif",
+      "frontend_src_tabs_opsview_formatrawtime",
+      "frontend_src_tabs_opsview_getconfidenceclass",
+      "frontend_src_tabs_opsview_getconfidencecolor",
+      "frontend_src_tabs_opsview_getconfidencelabel",
+      "frontend_src_tabs_opsview_opsview",
+      "frontend_src_tabs_passengerview",
+      "frontend_src_tabs_passengerview_modes",
+      "frontend_src_tabs_passengerview_passengerview",
+      "frontend_src_utils_formateta",
+      "frontend_src_utils_formateta_delayclass",
+      "frontend_src_utils_formateta_formatdatetime",
+      "frontend_src_utils_formateta_formatdelay",
+      "frontend_src_utils_formateta_formattime",
+      "frontend_src_utils_formateta_modelbadgeclass",
+      "frontend_src_utils_formateta_modellabel",
+      "frontend_src_utils_formateta_parsescheduledtime",
+      "ref_react"
+    ],
+    "2": [
+      "frontend_package",
+      "frontend_package_dependencies",
+      "frontend_package_dependencies_leaflet",
+      "frontend_package_dependencies_react",
+      "frontend_package_dependencies_react_dom",
+      "frontend_package_dependencies_react_leaflet",
+      "frontend_package_devdependencies",
+      "frontend_package_devdependencies_oxlint",
+      "frontend_package_devdependencies_types_react",
+      "frontend_package_devdependencies_types_react_dom",
+      "frontend_package_devdependencies_vite",
+      "frontend_package_devdependencies_vitejs_plugin_react",
+      "frontend_package_name",
+      "frontend_package_private",
+      "frontend_package_scripts",
+      "frontend_package_scripts_build",
+      "frontend_package_scripts_dev",
+      "frontend_package_scripts_lint",
+      "frontend_package_scripts_preview",
+      "frontend_package_type",
+      "frontend_package_version",
+      "frontend_vite_config",
+      "frontend_vite_config_buildchecksplugin",
+      "ref_leaflet",
+      "ref_oxlint",
+      "ref_react_dom",
+      "ref_react_leaflet",
+      "ref_types_react",
+      "ref_types_react_dom",
+      "ref_vite",
+      "ref_vitejs_plugin_react"
+    ],
+    "3": [
+      "frontend_src_components_explanationpanel",
+      "frontend_src_components_explanationpanel_explanationpanel",
+      "frontend_src_components_livereplaycontrols_livereplaycontrols",
+      "frontend_src_components_livereplaycontrols_livereplaycontrols_handleplaypause",
+      "frontend_src_components_livereplaycontrols_livereplaycontrols_handlerestart",
+      "frontend_src_components_whatifform",
+      "frontend_src_components_whatifform_whatifform",
+      "frontend_src_components_whatifform_whatifform_handlesubmit",
+      "frontend_src_components_whatifform_whatifform_validate",
+      "frontend_src_hooks_useexplanation",
+      "frontend_src_hooks_useexplanation_useexplanation",
+      "frontend_src_hooks_usereplay",
+      "frontend_src_hooks_usereplay_usereplay",
+      "frontend_src_hooks_usereplay_usereplay_load",
+      "frontend_src_hooks_usereplay_usereplay_reset",
+      "frontend_src_utils_apiclient",
+      "frontend_src_utils_apiclient_fetchexplanation",
+      "frontend_src_utils_apiclient_fetchprediction",
+      "frontend_src_utils_apiclient_fetchreplay",
+      "frontend_src_utils_apiclient_fetchwithtimeout",
+      "frontend_src_utils_apiclient_parseapierror",
+      "frontend_src_utils_apiclient_synthesizebaselineprediction",
+      "frontend_src_utils_apiclient_synthesizeexplanation",
+      "frontend_src_utils_apiclient_synthesizereplay",
+      "frontend_src_utils_snappositiontoroute",
+      "frontend_src_utils_snappositiontoroute_haversine",
+      "frontend_src_utils_snappositiontoroute_snappositiontoroute",
+      "frontend_src_utils_snappositiontoroute_torad"
+    ],
+    "4": [
+      "agents_skills_graphify_skill",
+      "agents_skills_graphify_skill_for_graphify_add_and_watch",
+      "agents_skills_graphify_skill_for_graphify_query",
+      "agents_skills_graphify_skill_for_the_commit_hook_and_native_claude_md_integration",
+      "agents_skills_graphify_skill_for_update_and_cluster_only",
+      "agents_skills_graphify_skill_graphify",
+      "agents_skills_graphify_skill_honesty_rules",
+      "agents_skills_graphify_skill_interpreter_guard_for_subcommands",
+      "agents_skills_graphify_skill_part_a_structural_extraction_for_code_files",
+      "agents_skills_graphify_skill_part_b_semantic_extraction_parallel_subagents",
+      "agents_skills_graphify_skill_part_c_merge_ast_semantic_into_final_extraction",
+      "agents_skills_graphify_skill_powershell_5_1_vertical_scrolling_stops_working",
+      "agents_skills_graphify_skill_step_0_github_repos_and_multi_path_merge_only_if_a_url_or_several_paths",
+      "agents_skills_graphify_skill_step_1_ensure_graphify_is_installed",
+      "agents_skills_graphify_skill_step_2_5_video_and_audio_only_if_video_files_detected",
+      "agents_skills_graphify_skill_step_2_detect_files",
+      "agents_skills_graphify_skill_step_3_extract_entities_and_relationships",
+      "agents_skills_graphify_skill_step_4_5_graph_health_check_read_only_integrity_gate",
+      "agents_skills_graphify_skill_step_4_build_graph_cluster_analyze_generate_outputs",
+      "agents_skills_graphify_skill_step_5_label_communities",
+      "agents_skills_graphify_skill_step_6_generate_obsidian_vault_opt_in_html",
+      "agents_skills_graphify_skill_step_9_save_manifest_update_cost_tracker_clean_up_and_report",
+      "agents_skills_graphify_skill_steps_6b_8_wiki_neo4j_falkordb_svg_graphml_mcp_benchmark_only_on_their_flags",
+      "agents_skills_graphify_skill_troubleshooting",
+      "agents_skills_graphify_skill_usage",
+      "agents_skills_graphify_skill_what_graphify_is_for",
+      "agents_skills_graphify_skill_what_you_must_do_when_invoked"
+    ],
+    "5": [
+      "development_plan_development_document",
+      "development_plan_development_document_1_executive_summary_problem_context",
+      "development_plan_development_document_2_architecture_overview_technology_stack",
+      "development_plan_development_document_3_step_by_step_implementation_record",
+      "development_plan_development_document_4_file_asset_registry",
+      "development_plan_development_document_5_data_dictionary_interface_schemas",
+      "development_plan_development_document_6_roadmap_pending_milestones",
+      "development_plan_development_document_7_metric_visual_artifact_veracity_disclosure",
+      "development_plan_development_document_prediction_response_schema_predict_dynamic_baseline",
+      "development_plan_development_document_replay_response_schema_replay",
+      "development_plan_development_document_step_10_live_replay_journey_engine_destination_fixes",
+      "development_plan_development_document_step_11_clean_map_state_on_train_deselection",
+      "development_plan_development_document_step_12_excluded_trains_without_intermediate_stations",
+      "development_plan_development_document_step_13_operations_tab_train_list_unification",
+      "development_plan_development_document_step_14_isolated_project_virtual_environment_setup",
+      "development_plan_development_document_step_1_scaffolding_design_foundation",
+      "development_plan_development_document_step_2_component_architecture_state_management",
+      "development_plan_development_document_step_3_dual_view_implementation_passenger_operations",
+      "development_plan_development_document_step_4_mapping_infrastructure_openrailwaymap_gis",
+      "development_plan_development_document_step_5_operations_tab_compact_analysis_strip",
+      "development_plan_development_document_step_6_passenger_tab_search_inline_train_catalog",
+      "development_plan_development_document_step_7_nationwide_dataset_ingestion_8_730_trains",
+      "development_plan_development_document_step_8_nationwide_station_gis_8_703_stations_dynamic_camera_routing",
+      "development_plan_development_document_step_9_dynamic_baseline_inference_offline_prediction_engine",
+      "development_plan_development_document_table_of_contents",
+      "development_plan_development_document_technology_stack",
+      "development_plan_development_document_traineta_development_document"
+    ],
+    "6": [
+      "backend_pipeline_build_features",
+      "backend_pipeline_build_features_add_stub_features",
+      "backend_pipeline_build_features_build_baseline",
+      "backend_pipeline_build_features_build_delay_trend",
+      "backend_pipeline_build_features_build_delay_trend_slope_last3",
+      "backend_pipeline_build_features_build_journey_features",
+      "backend_pipeline_build_features_build_recovery_margin",
+      "backend_pipeline_build_features_build_rolling_delay_features",
+      "backend_pipeline_build_features_build_section_id",
+      "backend_pipeline_build_features_build_section_occupancy",
+      "backend_pipeline_build_features_build_target",
+      "backend_pipeline_build_features_build_temporal_features",
+      "backend_pipeline_build_features_build_zone_punctuality",
+      "backend_pipeline_build_features_cap_delay_outliers",
+      "backend_pipeline_build_features_enrich_station_info",
+      "backend_pipeline_build_features_enrich_train_details",
+      "backend_pipeline_build_features_load_delay",
+      "backend_pipeline_build_features_load_etrain",
+      "backend_pipeline_build_features_load_schedule",
+      "backend_pipeline_build_features_load_station_names",
+      "backend_pipeline_build_features_load_train_details",
+      "backend_pipeline_build_features_main",
+      "backend_pipeline_build_features_merge_schedule_delay",
+      "backend_pipeline_build_features_rationale_1",
+      "backend_pipeline_build_features_sched_min_from_row"
+    ],
+    "7": [
+      "backend_precedence_engine",
+      "backend_precedence_engine_add_precedence_features",
+      "backend_precedence_engine_baseline_against_own_history",
+      "backend_precedence_engine_compute_delay_picked_up",
+      "backend_precedence_engine_cross_reference_priority",
+      "backend_precedence_engine_get_priority_rank",
+      "backend_precedence_engine_platform_deviation_signal",
+      "backend_precedence_engine_py_dataframe",
+      "backend_precedence_engine_py_series",
+      "backend_precedence_engine_rationale_1",
+      "backend_precedence_engine_rationale_107",
+      "backend_precedence_engine_rationale_132",
+      "backend_precedence_engine_rationale_166",
+      "backend_precedence_engine_rationale_192",
+      "backend_precedence_engine_rationale_207",
+      "backend_precedence_engine_rationale_261",
+      "backend_precedence_engine_rationale_41",
+      "backend_precedence_engine_rationale_52",
+      "backend_precedence_engine_rationale_88",
+      "backend_precedence_engine_require_repetition_confidence",
+      "backend_precedence_engine_run_precedence_pipeline",
+      "backend_precedence_engine_systemic_cause_filter",
+      "path"
+    ],
+    "8": [
+      "backend_train_model",
+      "backend_train_model_b",
+      "backend_train_model_b_chronological_split",
+      "backend_train_model_b_encode_categoricals",
+      "backend_train_model_b_evaluate",
+      "backend_train_model_b_load_and_prepare",
+      "backend_train_model_b_main",
+      "backend_train_model_b_save_artifacts",
+      "backend_train_model_b_train_xgboost",
+      "backend_train_model_chronological_split",
+      "backend_train_model_encode_categoricals",
+      "backend_train_model_evaluate",
+      "backend_train_model_load_and_prepare",
+      "backend_train_model_main",
+      "backend_train_model_rationale_45",
+      "backend_train_model_rationale_74",
+      "backend_train_model_rationale_86",
+      "backend_train_model_save_artifacts",
+      "backend_train_model_train_xgboost"
+    ],
+    "9": [
+      "development_plan_01_architecture_and_sources",
+      "development_plan_01_architecture_and_sources_01_architecture_overview_and_data_sources",
+      "development_plan_01_architecture_and_sources_1_system_architecture_phase_1_the_closed_loop_prototype",
+      "development_plan_01_architecture_and_sources_2_10_excluded_from_the_pipeline_entirely_documented_decision_not_an_oversight",
+      "development_plan_01_architecture_and_sources_2_1_combined_schedule_csv_already_have_phase_1",
+      "development_plan_01_architecture_and_sources_2_2_combined_delay_csv_already_have_phase_1",
+      "development_plan_01_architecture_and_sources_2_3_train_details_csv_already_have_phase_1",
+      "development_plan_01_architecture_and_sources_2_4_station_full_names_csv_already_have_phase_1",
+      "development_plan_01_architecture_and_sources_2_5_etrain_delays_csv_already_have_phase_1_supplementary",
+      "development_plan_01_architecture_and_sources_2_6_irctc_cleaned_csv_already_have_phase_1_low_priority_reference_only",
+      "development_plan_01_architecture_and_sources_2_7_openstreetmap_track_geometry_to_build_phase_1",
+      "development_plan_01_architecture_and_sources_2_8_live_public_train_tracking_scraper_to_build_phase_1",
+      "development_plan_01_architecture_and_sources_2_9_not_built_in_phase_1_named_for_honesty_not_hidden",
+      "development_plan_01_architecture_and_sources_2_data_sources_full_descriptions_and_schemas"
+    ],
+    "10": [
+      "development_plan_04_ml_model_spec",
+      "development_plan_04_ml_model_spec_04_ml_model_specification",
+      "development_plan_04_ml_model_spec_evaluation_metrics_required_report_all_of_these",
+      "development_plan_04_ml_model_spec_explainability",
+      "development_plan_04_ml_model_spec_phase_1_model_a",
+      "development_plan_04_ml_model_spec_phase_2_model_b_do_not_build_until_the_data_collection_go_no_go_checkpoint_passes",
+      "development_plan_04_ml_model_spec_required_comparison_methodology_this_is_the_actual_deliverable_of_phase_2_not_just_a_better_model",
+      "development_plan_04_ml_model_spec_retraining",
+      "development_plan_04_ml_model_spec_serving_fallback_requirement",
+      "development_plan_04_ml_model_spec_stage_1_baseline_no_training_required",
+      "development_plan_04_ml_model_spec_stage_2_tree_ensemble_residual_model",
+      "development_plan_04_ml_model_spec_stage_3_network_congestion_layer",
+      "development_plan_04_ml_model_spec_stage_4_uncertainty_confidence_interval",
+      "development_plan_04_ml_model_spec_what_changes_from_model_a"
+    ],
+    "11": [
+      "development_plan_06_frontend_dashboard_spec",
+      "development_plan_06_frontend_dashboard_spec_06_frontend_dashboard_specification_react_vite_leaflet",
+      "development_plan_06_frontend_dashboard_spec_06_frontend_dashboard_specification_react_vite_leaflet_7",
+      "development_plan_06_frontend_dashboard_spec_1_application_structure",
+      "development_plan_06_frontend_dashboard_spec_2_components",
+      "development_plan_06_frontend_dashboard_spec_3_fallback_behavior_mandatory_applies_app_wide",
+      "development_plan_06_frontend_dashboard_spec_4_state_management",
+      "development_plan_06_frontend_dashboard_spec_5_build_deploy_note",
+      "development_plan_06_frontend_dashboard_spec_etacard",
+      "development_plan_06_frontend_dashboard_spec_explanationpanel",
+      "development_plan_06_frontend_dashboard_spec_livereplaycontrols",
+      "development_plan_06_frontend_dashboard_spec_trackmap",
+      "development_plan_06_frontend_dashboard_spec_trainselector",
+      "development_plan_06_frontend_dashboard_spec_whatifform"
+    ],
+    "12": [
+      "development_plan_07_datacollection_scraper_and_precedence_phase2",
+      "development_plan_07_datacollection_scraper_and_precedence_phase2_07_data_collection_phase_1_scraper_infrastructure_phase_2_precedence_inference_marked",
+      "development_plan_07_datacollection_scraper_and_precedence_phase2_deployment",
+      "development_plan_07_datacollection_scraper_and_precedence_phase2_ethics_scope_guardrails_hard_requirements_not_preferences",
+      "development_plan_07_datacollection_scraper_and_precedence_phase2_feeding_into_model_b_see_04_phase_2_section",
+      "development_plan_07_datacollection_scraper_and_precedence_phase2_function_specs",
+      "development_plan_07_datacollection_scraper_and_precedence_phase2_function_specs_beyond_what_s_in_02_step_1",
+      "development_plan_07_datacollection_scraper_and_precedence_phase2_output_schema_precedence_events_parquet",
+      "development_plan_07_datacollection_scraper_and_precedence_phase2_part_a_phase_1_scraper_infrastructure_build_now",
+      "development_plan_07_datacollection_scraper_and_precedence_phase2_part_b_phase_2_enhancement_adaptive_polling_frequency_do_not_build_until_phase_1_scraper_is_stable",
+      "development_plan_07_datacollection_scraper_and_precedence_phase2_part_c_phase_2_precedence_inference_pipeline_do_not_build_until_the_data_collection_go_no_go_checkpoint_in_the_master_plan_has_passed",
+      "development_plan_07_datacollection_scraper_and_precedence_phase2_storage",
+      "development_plan_07_datacollection_scraper_and_precedence_phase2_validation_requirement_human_in_the_loop_not_automated"
+    ],
+    "13": [
+      "backend_readme",
+      "backend_readme_api_endpoints",
+      "backend_readme_environment_variables",
+      "backend_readme_error_response_shape",
+      "backend_readme_file_structure",
+      "backend_readme_how_it_works",
+      "backend_readme_how_to_generate_the_file_example_on_the_scraper_machine",
+      "backend_readme_optional_columns_used_if_present_silently_ignored_if_absent",
+      "backend_readme_quick_start",
+      "backend_readme_required_parquet_schema",
+      "backend_readme_scraper_integration_reconciled_positions_parquet",
+      "backend_readme_traineta_backend"
+    ],
+    "14": [
+      "backend_reconciled_reader",
+      "backend_reconciled_reader_get_cached_reconciled",
+      "backend_reconciled_reader_get_data_freshness",
+      "backend_reconciled_reader_get_latest_reconciled_row",
+      "backend_reconciled_reader_get_reconciled_path",
+      "backend_reconciled_reader_load_from_disk",
+      "backend_reconciled_reader_py_dataframe",
+      "backend_reconciled_reader_py_path",
+      "backend_reconciled_reader_rationale_117",
+      "backend_reconciled_reader_rationale_43",
+      "backend_reconciled_reader_rationale_85",
+      "backend_reconciled_reader_rationale_98"
+    ],
+    "15": [
+      "development_plan_05_backend_api_spec",
+      "development_plan_05_backend_api_spec_05_backend_api_specification_fastapi",
+      "development_plan_05_backend_api_spec_05_backend_api_specification_fastapi_7",
+      "development_plan_05_backend_api_spec_1_endpoints",
+      "development_plan_05_backend_api_spec_2_internal_functions",
+      "development_plan_05_backend_api_spec_3_cross_cutting_requirements",
+      "development_plan_05_backend_api_spec_get_explain",
+      "development_plan_05_backend_api_spec_get_health",
+      "development_plan_05_backend_api_spec_get_predict",
+      "development_plan_05_backend_api_spec_get_replay"
+    ],
+    "16": [
+      "agents_skills_graphify_references_exports",
+      "agents_skills_graphify_references_exports_graphify_reference_extra_exports_and_benchmark",
+      "agents_skills_graphify_references_exports_step_6b_wiki_only_if_wiki_flag",
+      "agents_skills_graphify_references_exports_step_7_neo4j_export_only_if_neo4j_or_neo4j_push_flag",
+      "agents_skills_graphify_references_exports_step_7a_falkordb_export_only_if_falkordb_or_falkordb_push_flag",
+      "agents_skills_graphify_references_exports_step_7b_svg_export_only_if_svg_flag",
+      "agents_skills_graphify_references_exports_step_7c_graphml_export_only_if_graphml_flag",
+      "agents_skills_graphify_references_exports_step_7d_mcp_server_only_if_mcp_flag",
+      "agents_skills_graphify_references_exports_step_8_token_reduction_benchmark_only_if_total_words_5000"
+    ],
+    "17": [
+      "agents_skills_ponytail_skill",
+      "agents_skills_ponytail_skill_boundaries",
+      "agents_skills_ponytail_skill_intensity",
+      "agents_skills_ponytail_skill_output",
+      "agents_skills_ponytail_skill_persistence",
+      "agents_skills_ponytail_skill_ponytail",
+      "agents_skills_ponytail_skill_rules",
+      "agents_skills_ponytail_skill_the_ladder",
+      "agents_skills_ponytail_skill_when_not_to_be_lazy"
+    ],
+    "18": [
+      "development_plan_02_pipeline_dataflow_techflow",
+      "development_plan_02_pipeline_dataflow_techflow_02_pipeline_data_flow_tech_flow_phase_1",
+      "development_plan_02_pipeline_dataflow_techflow_step_1_live_tracking_scraper",
+      "development_plan_02_pipeline_dataflow_techflow_step_2_parsing_raw_snapshots",
+      "development_plan_02_pipeline_dataflow_techflow_step_3_multi_source_reconciliation",
+      "development_plan_02_pipeline_dataflow_techflow_step_4_static_reference_data_cleaning_runs_once_parallel_to_steps_1_3",
+      "development_plan_02_pipeline_dataflow_techflow_step_5_the_master_join",
+      "development_plan_02_pipeline_dataflow_techflow_step_6_feature_engineering",
+      "development_plan_02_pipeline_dataflow_techflow_step_7_live_single_train_feature_computation_serving_time"
+    ],
+    "19": [
+      "agents_skills_ponytail_help_skill",
+      "agents_skills_ponytail_help_skill_configure_default_mode",
+      "agents_skills_ponytail_help_skill_deactivate",
+      "agents_skills_ponytail_help_skill_levels",
+      "agents_skills_ponytail_help_skill_more",
+      "agents_skills_ponytail_help_skill_ponytail_help",
+      "agents_skills_ponytail_help_skill_skills",
+      "agents_skills_ponytail_help_skill_update"
+    ],
+    "20": [
+      "development_plan_00_index",
+      "development_plan_00_index_0_purpose_of_this_document_set",
+      "development_plan_00_index_1_file_index",
+      "development_plan_00_index_2_recommended_build_order",
+      "development_plan_00_index_3_problem_statement_coverage_matrix_closed_loop_proof",
+      "development_plan_00_index_dynamic_eta_prediction_system_final_prototype_build_specification",
+      "development_plan_00_index_team_steamx_ps_26028_master_index"
+    ],
+    "21": [
+      "development_plan_08_deployment_spec",
+      "development_plan_08_deployment_spec_08_deployment_specification",
+      "development_plan_08_deployment_spec_1_backend_fastapi_render_railway",
+      "development_plan_08_deployment_spec_2_frontend_react_vite_hostinger",
+      "development_plan_08_deployment_spec_3_local_development_testing",
+      "development_plan_08_deployment_spec_4_monitoring_minimum_viable_phase_1",
+      "development_plan_08_deployment_spec_5_pre_demo_checklist"
+    ],
+    "22": [
+      "agents_skills_graphify_references_query",
+      "agents_skills_graphify_references_query_for_graphify_explain",
+      "agents_skills_graphify_references_query_for_graphify_path",
+      "agents_skills_graphify_references_query_graphify_reference_query_path_explain",
+      "agents_skills_graphify_references_query_step_0_constrained_query_expansion_required_before_traversal",
+      "agents_skills_graphify_references_query_step_1_traversal"
+    ],
+    "23": [
+      "development_plan_09_glossary_and_appendix",
+      "development_plan_09_glossary_and_appendix_09_glossary_and_appendix",
+      "development_plan_09_glossary_and_appendix_1_glossary",
+      "development_plan_09_glossary_and_appendix_2_appendix_a_synthetic_dataset_excluded_from_the_pipeline",
+      "development_plan_09_glossary_and_appendix_3_appendix_b_open_action_items_carried_from_the_master_plan_current_status",
+      "development_plan_09_glossary_and_appendix_4_cross_references_to_other_project_documents"
+    ],
+    "24": [
+      "frontend_oxlintrc",
+      "frontend_oxlintrc_plugins",
+      "frontend_oxlintrc_rules",
+      "frontend_oxlintrc_rules_react_only_export_components",
+      "frontend_oxlintrc_rules_react_rules_of_hooks",
+      "frontend_oxlintrc_schema"
+    ],
+    "25": [
+      "agents_skills_ponytail_audit_skill",
+      "agents_skills_ponytail_audit_skill_boundaries",
+      "agents_skills_ponytail_audit_skill_hunt",
+      "agents_skills_ponytail_audit_skill_output",
+      "agents_skills_ponytail_audit_skill_tags"
+    ],
+    "26": [
+      "agents_skills_ponytail_gain_skill",
+      "agents_skills_ponytail_gain_skill_boundaries",
+      "agents_skills_ponytail_gain_skill_honesty_boundary",
+      "agents_skills_ponytail_gain_skill_ponytail_gain",
+      "agents_skills_ponytail_gain_skill_scoreboard"
+    ],
+    "27": [
+      "agents_skills_ponytail_review_skill",
+      "agents_skills_ponytail_review_skill_boundaries",
+      "agents_skills_ponytail_review_skill_examples",
+      "agents_skills_ponytail_review_skill_format",
+      "agents_skills_ponytail_review_skill_scoring"
+    ],
+    "28": [
+      "agents_skills_graphify_references_add_watch",
+      "agents_skills_graphify_references_add_watch_for_graphify_add",
+      "agents_skills_graphify_references_add_watch_for_watch",
+      "agents_skills_graphify_references_add_watch_graphify_reference_add_a_url_and_watch_a_folder"
+    ],
+    "29": [
+      "agents_skills_graphify_references_hooks",
+      "agents_skills_graphify_references_hooks_for_git_commit_hook",
+      "agents_skills_graphify_references_hooks_for_native_claude_md_integration",
+      "agents_skills_graphify_references_hooks_graphify_reference_commit_hook_and_native_claude_md_integration"
+    ],
+    "30": [
+      "agents_skills_graphify_references_update",
+      "agents_skills_graphify_references_update_for_cluster_only",
+      "agents_skills_graphify_references_update_for_update_incremental_re_extraction",
+      "agents_skills_graphify_references_update_graphify_reference_incremental_update_and_cluster_only"
+    ],
+    "31": [
+      "agents_skills_ponytail_debt_skill",
+      "agents_skills_ponytail_debt_skill_boundaries",
+      "agents_skills_ponytail_debt_skill_output",
+      "agents_skills_ponytail_debt_skill_scan"
+    ],
+    "32": [
+      "backend_adaptive_polling",
+      "backend_adaptive_polling_adjust_polling_interval",
+      "backend_adaptive_polling_rationale_1",
+      "backend_adaptive_polling_rationale_25"
+    ],
+    "33": [
+      "backend_generate_empirical_accuracy",
+      "backend_generate_empirical_accuracy_main",
+      "backend_generate_empirical_accuracy_rationale_2",
+      "backend_generate_empirical_accuracy_set_dark_theme"
+    ],
+    "34": [
+      "frontend_readme",
+      "frontend_readme_expanding_the_oxlint_configuration",
+      "frontend_readme_react_compiler",
+      "frontend_readme_react_vite"
+    ],
+    "35": [
+      "agents_skills_graphify_references_github_and_merge",
+      "agents_skills_graphify_references_github_and_merge_graphify_reference_github_clone_and_cross_repo_merge",
+      "agents_skills_graphify_references_github_and_merge_step_0_clone_github_repo_s_only_if_a_github_url_was_given"
+    ],
+    "36": [
+      "agents_skills_graphify_references_transcribe",
+      "agents_skills_graphify_references_transcribe_graphify_reference_transcribe_video_and_audio",
+      "agents_skills_graphify_references_transcribe_step_2_5_transcribe_video_audio_files_only_if_video_files_detected"
+    ],
+    "37": [
+      "frontend_scripts_build_train_list",
+      "frontend_scripts_build_train_list_main",
+      "frontend_scripts_build_train_list_main_norm"
+    ],
+    "38": [
+      "agents_rules_graphify",
+      "agents_rules_graphify_graphify"
+    ],
+    "39": [
+      "agents_rules_ponytail",
+      "agents_rules_ponytail_ponytail_lazy_senior_dev_mode"
+    ],
+    "40": [
+      "agents_skills_graphify_references_extraction_spec",
+      "agents_skills_graphify_references_extraction_spec_graphify_reference_extraction_subagent_prompt"
+    ],
+    "41": [
+      "agents_workflows_graphify",
+      "agents_workflows_graphify_workflow_graphify"
+    ],
+    "42": [
+      "backend_generate_accuracy_graphs",
+      "backend_generate_accuracy_graphs_set_dark_theme"
+    ],
+    "43": [
+      "backend_generate_training_curves",
+      "backend_generate_training_curves_set_dark_theme"
+    ],
+    "44": [
+      "development_plan_03_feature_dictionary",
+      "development_plan_03_feature_dictionary_03_feature_dictionary"
+    ],
+    "45": [
+      "backend_precedence_engine_py_path"
+    ],
+    "46": [
+      "scratch_run_detect"
+    ]
+  },
+  "cohesion": {
+    "0": 0.058469945355191254,
+    "1": 0.08,
+    "2": 0.06666666666666667,
+    "3": 0.1349206349206349,
+    "4": 0.07407407407407407,
+    "5": 0.07407407407407407,
+    "6": 0.15333333333333332,
+    "7": 0.11462450592885376,
+    "8": 0.18128654970760233,
+    "9": 0.14285714285714285,
+    "10": 0.14285714285714285,
+    "11": 0.14285714285714285,
+    "12": 0.15384615384615385,
+    "13": 0.16666666666666666,
+    "14": 0.25757575757575757,
+    "15": 0.2,
+    "16": 0.2222222222222222,
+    "17": 0.2222222222222222,
+    "18": 0.2222222222222222,
+    "19": 0.25,
+    "20": 0.2857142857142857,
+    "21": 0.2857142857142857,
+    "22": 0.3333333333333333,
+    "23": 0.3333333333333333,
+    "24": 0.3333333333333333,
+    "25": 0.4,
+    "26": 0.4,
+    "27": 0.4,
+    "28": 0.5,
+    "29": 0.5,
+    "30": 0.5,
+    "31": 0.5,
+    "32": 0.5,
+    "33": 0.6666666666666666,
+    "34": 0.5,
+    "35": 0.6666666666666666,
+    "36": 0.6666666666666666,
+    "37": 0.6666666666666666,
+    "38": 1.0,
+    "39": 1.0,
+    "40": 1.0,
+    "41": 1.0,
+    "42": 1.0,
+    "43": 1.0,
+    "44": 1.0,
+    "45": 1.0,
+    "46": 1.0
+  },
+  "gods": [
+    {
+      "id": "backend_pipeline_build_features_main",
+      "label": "main()",
+      "degree": 21
+    },
+    {
+      "id": "development_plan_development_document_3_step_by_step_implementation_record",
+      "label": "3. Step-by-Step Implementation Record",
+      "degree": 15
+    },
+    {
+      "id": "backend_main_predict",
+      "label": "predict()",
+      "degree": 14
+    },
+    {
+      "id": "backend_errors_trainetaerror",
+      "label": "TrainETAError",
+      "degree": 13
+    },
+    {
+      "id": "ref_react",
+      "label": "react",
+      "degree": 13
+    },
+    {
+      "id": "agents_skills_graphify_skill_what_you_must_do_when_invoked",
+      "label": "What You Must Do When Invoked",
+      "degree": 12
+    },
+    {
+      "id": "agents_skills_graphify_skill_graphify",
+      "label": "/graphify",
+      "degree": 11
+    },
+    {
+      "id": "development_plan_01_architecture_and_sources_2_data_sources_full_descriptions_and_schemas",
+      "label": "2. Data Sources — Full Descriptions and Schemas",
+      "degree": 11
+    },
+    {
+      "id": "backend_main_safe_float",
+      "label": "safe_float()",
+      "degree": 9
+    },
+    {
+      "id": "frontend_src_tabs_opsview_opsview",
+      "label": "OpsView()",
+      "degree": 9
+    }
+  ],
+  "surprises": [
+    {
+      "source": "add_precedence_features()",
+      "target": "SchemaValidationError",
+      "source_files": [
+        "backend/precedence_engine.py",
+        "backend/errors.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "compute_delay_picked_up()",
+      "target": "SchemaValidationError",
+      "source_files": [
+        "backend/precedence_engine.py",
+        "backend/errors.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "cross_reference_priority()",
+      "target": "SchemaValidationError",
+      "source_files": [
+        "backend/precedence_engine.py",
+        "backend/errors.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "health()",
+      "target": "get_data_freshness()",
+      "source_files": [
+        "backend/main.py",
+        "backend/reconciled_reader.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "predict()",
+      "target": "get_latest_reconciled_row()",
+      "source_files": [
+        "backend/main.py",
+        "backend/reconciled_reader.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `react` connect `OpsView.jsx` to `package.json`, `apiClient.js`?",
+      "why": "High betweenness centrality (0.020) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `ModelStore`, `TABS`, `DEFAULT_CENTER` to the rest of the system?",
+      "why": "205 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `main.py` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.058469945355191254 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `OpsView.jsx` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.08 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `package.json` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.06666666666666667 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `apiClient.js` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.1349206349206349 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `What You Must Do When Invoked` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.07407407407407407 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

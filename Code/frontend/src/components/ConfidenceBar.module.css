@@ -1,0 +1,65 @@
+.container { display: flex; flex-direction: column; gap: var(--sp-2); }
+
+.labels {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 11px;
+  color: var(--clr-text-3);
+}
+.bound { font-weight: 600; color: var(--clr-text-2); }
+.rangeLabel { font-size: 10px; letter-spacing: 0.04em; }
+
+.track {
+  position: relative;
+  height: 28px;
+  display: flex;
+  align-items: center;
+}
+.band {
+  position: absolute;
+  left: 0; right: 0;
+  height: 8px;
+  background: linear-gradient(90deg, rgba(99,102,241,0.12), rgba(99,102,241,0.28), rgba(99,102,241,0.12));
+  border-radius: var(--r-full);
+  border: 1px solid rgba(99,102,241,0.25);
+}
+.marker {
+  position: absolute;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  z-index: 1;
+}
+.markerDot {
+  width: 14px; height: 14px;
+  border-radius: 50%;
+  background: var(--clr-model-a);
+  border: 2.5px solid var(--clr-surface);
+  box-shadow: 0 0 0 2px var(--clr-model-a);
+}
+.markerLabel {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--clr-model-a);
+  white-space: nowrap;
+  margin-top: 2px;
+}
+
+.baseline {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+  font-size: 11px;
+  color: var(--clr-text-3);
+}
+.baselineDot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  background: var(--clr-baseline);
+  border: 2px solid var(--clr-surface);
+  box-shadow: 0 0 0 1.5px var(--clr-baseline);
+  flex-shrink: 0;
+}

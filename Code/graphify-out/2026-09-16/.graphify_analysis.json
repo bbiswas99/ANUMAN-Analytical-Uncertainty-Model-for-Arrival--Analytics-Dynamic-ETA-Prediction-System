@@ -1,0 +1,410 @@
+{
+  "communities": {
+    "0": [
+      "backend_errors",
+      "backend_errors_configurationerror",
+      "backend_errors_generic_error_handler",
+      "backend_errors_invalidtrainnumbererror",
+      "backend_errors_modelnotloadederror",
+      "backend_errors_noactivejourneyerror",
+      "backend_errors_outofrangefeatureerror",
+      "backend_errors_rationale_104",
+      "backend_errors_rationale_17",
+      "backend_errors_rationale_35",
+      "backend_errors_rationale_41",
+      "backend_errors_rationale_47",
+      "backend_errors_rationale_53",
+      "backend_errors_rationale_59",
+      "backend_errors_rationale_65",
+      "backend_errors_rationale_71",
+      "backend_errors_rationale_88",
+      "backend_errors_register_error_handlers",
+      "backend_errors_schemavalidationerror",
+      "backend_errors_traineta_error_handler",
+      "backend_errors_trainetaerror",
+      "backend_errors_trainetaerror_init",
+      "backend_errors_trainetaerror_to_response",
+      "backend_errors_whatifoverrideinvaliderror",
+      "backend_main",
+      "backend_main_apply_what_if_overrides",
+      "backend_main_delay_label",
+      "backend_main_explain",
+      "backend_main_get_train_latest_snapshot",
+      "backend_main_health",
+      "backend_main_list_trains",
+      "backend_main_minutes_to_hhmm",
+      "backend_main_modelstore",
+      "backend_main_predict",
+      "backend_main_py_dataframe",
+      "backend_main_rationale_108",
+      "backend_main_rationale_123",
+      "backend_main_rationale_300",
+      "backend_main_rationale_339",
+      "backend_main_rationale_372",
+      "backend_main_rationale_433",
+      "backend_main_rationale_594",
+      "backend_main_rationale_696",
+      "backend_main_rationale_795",
+      "backend_main_replay",
+      "backend_main_safe_float",
+      "backend_main_startup_check_and_load_model",
+      "exception",
+      "get",
+      "on_event",
+      "request"
+    ],
+    "1": [
+      "frontend_src_app",
+      "frontend_src_app_app",
+      "frontend_src_app_tabs",
+      "frontend_src_components_errorboundary",
+      "frontend_src_components_errorboundary_errorboundary",
+      "frontend_src_components_errorboundary_errorboundary_componentdidcatch",
+      "frontend_src_components_errorboundary_errorboundary_constructor",
+      "frontend_src_components_errorboundary_errorboundary_getderivedstatefromerror",
+      "frontend_src_components_errorboundary_errorboundary_render",
+      "frontend_src_components_explanationpanel",
+      "frontend_src_components_explanationpanel_explanationpanel",
+      "frontend_src_components_trackmap",
+      "frontend_src_components_trackmap_default_center",
+      "frontend_src_components_trackmap_mapboundsupdater",
+      "frontend_src_components_trackmap_trackmap",
+      "frontend_src_components_trackmap_train_icon",
+      "frontend_src_components_trainselector",
+      "frontend_src_components_trainselector_trainselector",
+      "frontend_src_components_trainselector_trainselector_handleclear",
+      "frontend_src_components_trainselector_trainselector_handleclick",
+      "frontend_src_components_trainselector_trainselector_handleinputchange",
+      "frontend_src_components_trainselector_trainselector_handlelistscroll",
+      "frontend_src_components_trainselector_trainselector_handleselect",
+      "frontend_src_hooks_useexplanation",
+      "frontend_src_hooks_useexplanation_useexplanation",
+      "frontend_src_main",
+      "frontend_src_tabs_passengerview",
+      "frontend_src_tabs_passengerview_modes",
+      "frontend_src_tabs_passengerview_passengerview",
+      "ref_leaflet",
+      "ref_react",
+      "ref_react_leaflet"
+    ],
+    "2": [
+      "frontend_package",
+      "frontend_package_dependencies",
+      "frontend_package_dependencies_leaflet",
+      "frontend_package_dependencies_react",
+      "frontend_package_dependencies_react_dom",
+      "frontend_package_dependencies_react_leaflet",
+      "frontend_package_devdependencies",
+      "frontend_package_devdependencies_oxlint",
+      "frontend_package_devdependencies_types_react",
+      "frontend_package_devdependencies_types_react_dom",
+      "frontend_package_devdependencies_vite",
+      "frontend_package_devdependencies_vitejs_plugin_react",
+      "frontend_package_name",
+      "frontend_package_private",
+      "frontend_package_scripts",
+      "frontend_package_scripts_build",
+      "frontend_package_scripts_dev",
+      "frontend_package_scripts_lint",
+      "frontend_package_scripts_preview",
+      "frontend_package_type",
+      "frontend_package_version",
+      "frontend_vite_config",
+      "frontend_vite_config_buildchecksplugin",
+      "ref_oxlint",
+      "ref_react_dom",
+      "ref_types_react",
+      "ref_types_react_dom",
+      "ref_vite",
+      "ref_vitejs_plugin_react"
+    ],
+    "3": [
+      "frontend_src_components_livereplaycontrols",
+      "frontend_src_components_livereplaycontrols_livereplaycontrols",
+      "frontend_src_components_livereplaycontrols_livereplaycontrols_handleplaypause",
+      "frontend_src_components_livereplaycontrols_livereplaycontrols_handlerestart",
+      "frontend_src_components_livereplaycontrols_speed_options",
+      "frontend_src_components_whatifform",
+      "frontend_src_components_whatifform_whatifform",
+      "frontend_src_components_whatifform_whatifform_handlesubmit",
+      "frontend_src_components_whatifform_whatifform_validate",
+      "frontend_src_hooks_usereplay",
+      "frontend_src_hooks_usereplay_usereplay",
+      "frontend_src_hooks_usereplay_usereplay_load",
+      "frontend_src_hooks_usereplay_usereplay_reset",
+      "frontend_src_utils_apiclient",
+      "frontend_src_utils_apiclient_fetchexplanation",
+      "frontend_src_utils_apiclient_fetchprediction",
+      "frontend_src_utils_apiclient_fetchreplay",
+      "frontend_src_utils_apiclient_fetchwithtimeout",
+      "frontend_src_utils_apiclient_parseapierror",
+      "frontend_src_utils_apiclient_synthesizebaselineprediction",
+      "frontend_src_utils_apiclient_synthesizeexplanation",
+      "frontend_src_utils_apiclient_synthesizereplay",
+      "frontend_src_utils_snappositiontoroute",
+      "frontend_src_utils_snappositiontoroute_haversine",
+      "frontend_src_utils_snappositiontoroute_snappositiontoroute",
+      "frontend_src_utils_snappositiontoroute_torad"
+    ],
+    "4": [
+      "backend_pipeline_build_features",
+      "backend_pipeline_build_features_add_stub_features",
+      "backend_pipeline_build_features_build_baseline",
+      "backend_pipeline_build_features_build_delay_trend",
+      "backend_pipeline_build_features_build_delay_trend_slope_last3",
+      "backend_pipeline_build_features_build_journey_features",
+      "backend_pipeline_build_features_build_recovery_margin",
+      "backend_pipeline_build_features_build_rolling_delay_features",
+      "backend_pipeline_build_features_build_section_id",
+      "backend_pipeline_build_features_build_section_occupancy",
+      "backend_pipeline_build_features_build_target",
+      "backend_pipeline_build_features_build_temporal_features",
+      "backend_pipeline_build_features_build_zone_punctuality",
+      "backend_pipeline_build_features_cap_delay_outliers",
+      "backend_pipeline_build_features_enrich_station_info",
+      "backend_pipeline_build_features_enrich_train_details",
+      "backend_pipeline_build_features_load_delay",
+      "backend_pipeline_build_features_load_etrain",
+      "backend_pipeline_build_features_load_schedule",
+      "backend_pipeline_build_features_load_station_names",
+      "backend_pipeline_build_features_load_train_details",
+      "backend_pipeline_build_features_main",
+      "backend_pipeline_build_features_merge_schedule_delay",
+      "backend_pipeline_build_features_rationale_1",
+      "backend_pipeline_build_features_sched_min_from_row"
+    ],
+    "5": [
+      "frontend_src_components_confidencebar",
+      "frontend_src_components_confidencebar_confidencebar",
+      "frontend_src_components_etacard",
+      "frontend_src_components_etacard_etacard",
+      "frontend_src_hooks_useprediction",
+      "frontend_src_hooks_useprediction_useprediction",
+      "frontend_src_tabs_opsview",
+      "frontend_src_tabs_opsview_detailrow",
+      "frontend_src_tabs_opsview_extractwhatif",
+      "frontend_src_tabs_opsview_formatrawtime",
+      "frontend_src_tabs_opsview_getconfidenceclass",
+      "frontend_src_tabs_opsview_getconfidencecolor",
+      "frontend_src_tabs_opsview_getconfidencelabel",
+      "frontend_src_tabs_opsview_opsview",
+      "frontend_src_utils_formateta",
+      "frontend_src_utils_formateta_delayclass",
+      "frontend_src_utils_formateta_formatdatetime",
+      "frontend_src_utils_formateta_formatdelay",
+      "frontend_src_utils_formateta_formattime",
+      "frontend_src_utils_formateta_modelbadgeclass",
+      "frontend_src_utils_formateta_modellabel",
+      "frontend_src_utils_formateta_parsescheduledtime"
+    ],
+    "6": [
+      "backend_reconciled_reader",
+      "backend_reconciled_reader_get_cached_reconciled",
+      "backend_reconciled_reader_get_data_freshness",
+      "backend_reconciled_reader_get_latest_reconciled_row",
+      "backend_reconciled_reader_get_reconciled_path",
+      "backend_reconciled_reader_load_from_disk",
+      "backend_reconciled_reader_py_dataframe",
+      "backend_reconciled_reader_rationale_117",
+      "backend_reconciled_reader_rationale_43",
+      "backend_reconciled_reader_rationale_85",
+      "backend_reconciled_reader_rationale_98",
+      "path"
+    ],
+    "7": [
+      "backend_train_model",
+      "backend_train_model_chronological_split",
+      "backend_train_model_encode_categoricals",
+      "backend_train_model_evaluate",
+      "backend_train_model_load_and_prepare",
+      "backend_train_model_main",
+      "backend_train_model_rationale_45",
+      "backend_train_model_rationale_74",
+      "backend_train_model_rationale_86",
+      "backend_train_model_save_artifacts",
+      "backend_train_model_train_xgboost"
+    ],
+    "8": [
+      "frontend_oxlintrc",
+      "frontend_oxlintrc_plugins",
+      "frontend_oxlintrc_rules",
+      "frontend_oxlintrc_rules_react_only_export_components",
+      "frontend_oxlintrc_rules_react_rules_of_hooks",
+      "frontend_oxlintrc_schema"
+    ],
+    "9": [
+      "backend_main_encode_features_for_inference",
+      "backend_main_rationale_240",
+      "ndarray",
+      "series"
+    ],
+    "10": [
+      "frontend_scripts_build_train_list",
+      "frontend_scripts_build_train_list_main",
+      "frontend_scripts_build_train_list_main_norm"
+    ],
+    "11": [
+      "scratch_run_detect"
+    ]
+  },
+  "cohesion": {
+    "0": 0.07450980392156863,
+    "1": 0.0907258064516129,
+    "2": 0.07142857142857142,
+    "3": 0.15384615384615385,
+    "4": 0.15333333333333332,
+    "5": 0.2077922077922078,
+    "6": 0.25757575757575757,
+    "7": 0.2909090909090909,
+    "8": 0.3333333333333333,
+    "9": 0.5,
+    "10": 0.6666666666666666,
+    "11": 1.0
+  },
+  "gods": [
+    {
+      "id": "backend_pipeline_build_features_main",
+      "label": "main()",
+      "degree": 21
+    },
+    {
+      "id": "backend_errors_trainetaerror",
+      "label": "TrainETAError",
+      "degree": 14
+    },
+    {
+      "id": "backend_main_predict",
+      "label": "predict()",
+      "degree": 13
+    },
+    {
+      "id": "ref_react",
+      "label": "react",
+      "degree": 13
+    },
+    {
+      "id": "frontend_src_components_livereplaycontrols_livereplaycontrols",
+      "label": "LiveReplayControls()",
+      "degree": 9
+    },
+    {
+      "id": "frontend_src_utils_apiclient_fetchprediction",
+      "label": "fetchPrediction()",
+      "degree": 9
+    },
+    {
+      "id": "frontend_src_tabs_opsview_opsview",
+      "label": "OpsView()",
+      "degree": 9
+    },
+    {
+      "id": "frontend_src_components_trainselector_trainselector",
+      "label": "TrainSelector()",
+      "degree": 8
+    },
+    {
+      "id": "frontend_src_components_etacard_etacard",
+      "label": "ETACard()",
+      "degree": 8
+    },
+    {
+      "id": "backend_errors_invalidtrainnumbererror",
+      "label": "InvalidTrainNumberError",
+      "degree": 7
+    }
+  ],
+  "surprises": [
+    {
+      "source": "startup_check_and_load_model()",
+      "target": "ConfigurationError",
+      "source_files": [
+        "backend/main.py",
+        "backend/errors.py"
+      ],
+      "confidence": "INFERRED",
+      "relation": "uses",
+      "why": "inferred connection - not explicitly stated in source"
+    },
+    {
+      "source": "explain()",
+      "target": "InvalidTrainNumberError",
+      "source_files": [
+        "backend/main.py",
+        "backend/errors.py"
+      ],
+      "confidence": "INFERRED",
+      "relation": "uses",
+      "why": "inferred connection - not explicitly stated in source"
+    },
+    {
+      "source": "predict()",
+      "target": "InvalidTrainNumberError",
+      "source_files": [
+        "backend/main.py",
+        "backend/errors.py"
+      ],
+      "confidence": "INFERRED",
+      "relation": "uses",
+      "why": "inferred connection - not explicitly stated in source"
+    },
+    {
+      "source": "replay()",
+      "target": "InvalidTrainNumberError",
+      "source_files": [
+        "backend/main.py",
+        "backend/errors.py"
+      ],
+      "confidence": "INFERRED",
+      "relation": "uses",
+      "why": "inferred connection - not explicitly stated in source"
+    },
+    {
+      "source": "explain()",
+      "target": "ModelNotLoadedError",
+      "source_files": [
+        "backend/main.py",
+        "backend/errors.py"
+      ],
+      "confidence": "INFERRED",
+      "relation": "uses",
+      "why": "inferred connection - not explicitly stated in source"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `react` connect `PassengerView.jsx` to `package.json`, `apiClient.js`, `OpsView.jsx`?",
+      "why": "High betweenness centrality (0.110) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `TrainSelector()` connect `PassengerView.jsx` to `OpsView.jsx`?",
+      "why": "High betweenness centrality (0.022) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 3 inferred relationships involving `predict()` (e.g. with `InvalidTrainNumberError` and `ModelNotLoadedError`) actually correct?",
+      "why": "`predict()` has 3 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `ModelStore`, `TABS`, `DEFAULT_CENTER` to the rest of the system?",
+      "why": "31 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `main.py` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.07450980392156863 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `PassengerView.jsx` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.0907258064516129 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `package.json` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.07142857142857142 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

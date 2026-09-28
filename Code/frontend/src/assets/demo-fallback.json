@@ -1,0 +1,3828 @@
+{
+  "predictions": {
+    "961": {
+      "train_no": 961,
+      "train_name": "VALLEY QUEEN SPL",
+      "predicted_delay_min": 1.6,
+      "predicted_residual_min": 1.6,
+      "baseline_delay_min": 0.0,
+      "predicted_eta": "12:46",
+      "delay_label": "Slight Delay",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        0,
+        6.1
+      ],
+      "current_station": "FLD",
+      "destination": "KBK",
+      "destination_full": "KHAMIL GHAT",
+      "stops_remaining": 2,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:51:44.631572Z",
+      "live_data_used": false,
+      "current_delay_min": 1.6,
+      "eta": "2026-09-15T04:53:22.695387Z",
+      "confidence_interval_lower": "2026-09-15T04:48:56.895387Z",
+      "confidence_interval_upper": "2026-09-15T04:57:48.495387Z",
+      "baseline_eta": "2026-09-15T04:51:44.631572Z",
+      "last_station_name": "PHULAD",
+      "last_station_code": "FLD",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    },
+    "962": {
+      "train_no": 962,
+      "train_name": "VALLEY QUEEN SPL",
+      "predicted_delay_min": 0.9,
+      "predicted_residual_min": 0.9,
+      "baseline_delay_min": 0.0,
+      "predicted_eta": "17:30",
+      "delay_label": "Slight Delay",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        0,
+        5.3
+      ],
+      "current_station": "FLD",
+      "destination": "MJ",
+      "destination_full": "MARWAR JN",
+      "stops_remaining": 2,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:51:50.809619Z",
+      "live_data_used": false,
+      "current_delay_min": 0.9,
+      "eta": "2026-09-15T04:52:43.642971Z",
+      "confidence_interval_lower": "2026-09-15T04:48:17.842971Z",
+      "confidence_interval_upper": "2026-09-15T04:57:09.442971Z",
+      "baseline_eta": "2026-09-15T04:51:50.809619Z",
+      "last_station_name": "PHULAD",
+      "last_station_code": "FLD",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    },
+    "1023": {
+      "train_no": 1023,
+      "train_name": "PUNE KOP SPECIAL",
+      "predicted_delay_min": 73.2,
+      "predicted_residual_min": 66.4,
+      "baseline_delay_min": 6.8,
+      "predicted_eta": "06:55",
+      "delay_label": "1.2 hr late",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        68.8,
+        77.6
+      ],
+      "current_station": "KRD",
+      "destination": "KOP",
+      "destination_full": "C SHAHUMHARAJ T",
+      "stops_remaining": 11,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:51:57.124040Z",
+      "live_data_used": false,
+      "current_delay_min": 73.2,
+      "eta": "2026-09-15T06:05:08.988176Z",
+      "confidence_interval_lower": "2026-09-15T06:00:43.188176Z",
+      "confidence_interval_upper": "2026-09-15T06:09:34.788176Z",
+      "baseline_eta": "2026-09-15T04:58:45.124040Z",
+      "last_station_name": "KARAD",
+      "last_station_code": "KRD",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    },
+    "1024": {
+      "train_no": 1024,
+      "train_name": "KOP PUNE SPECIAL",
+      "predicted_delay_min": 24.2,
+      "predicted_residual_min": 24.2,
+      "baseline_delay_min": 0.0,
+      "predicted_eta": "07:29",
+      "delay_label": "24 min late",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        19.8,
+        28.6
+      ],
+      "current_station": "MSR",
+      "destination": "PUNE",
+      "destination_full": "PUNE JN",
+      "stops_remaining": 11,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:52:03.423393Z",
+      "live_data_used": false,
+      "current_delay_min": 24.2,
+      "eta": "2026-09-15T05:16:14.353988Z",
+      "confidence_interval_lower": "2026-09-15T05:11:48.553988Z",
+      "confidence_interval_upper": "2026-09-15T05:20:40.153988Z",
+      "baseline_eta": "2026-09-15T04:52:03.423393Z",
+      "last_station_name": "MASUR",
+      "last_station_code": "MSR",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    },
+    "1025": {
+      "train_no": 1025,
+      "train_name": "DR BALLIA SPL",
+      "predicted_delay_min": 22.6,
+      "predicted_residual_min": 22.6,
+      "baseline_delay_min": 0.0,
+      "predicted_eta": "17:10",
+      "delay_label": "22 min late",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        18.2,
+        27.0
+      ],
+      "current_station": "LAR",
+      "destination": "MKP",
+      "destination_full": "MANIKPUR JN",
+      "stops_remaining": 12,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:52:09.632958Z",
+      "live_data_used": false,
+      "current_delay_min": 22.6,
+      "eta": "2026-09-15T05:14:45.580796Z",
+      "confidence_interval_lower": "2026-09-15T05:10:19.780796Z",
+      "confidence_interval_upper": "2026-09-15T05:19:11.380796Z",
+      "baseline_eta": "2026-09-15T04:52:09.632958Z",
+      "last_station_name": "LALITPUR",
+      "last_station_code": "LAR",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    },
+    "1026": {
+      "train_no": 1026,
+      "train_name": "BUI DR SPL",
+      "predicted_delay_min": 59.6,
+      "predicted_residual_min": 39.1,
+      "baseline_delay_min": 20.5,
+      "predicted_eta": "20:39",
+      "delay_label": "59 min late",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        55.2,
+        64.0
+      ],
+      "current_station": "MAU",
+      "destination": "BSB",
+      "destination_full": "VARANASI JN",
+      "stops_remaining": 4,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:52:15.800135Z",
+      "live_data_used": false,
+      "current_delay_min": 59.6,
+      "eta": "2026-09-15T05:51:51.445277Z",
+      "confidence_interval_lower": "2026-09-15T05:47:25.645277Z",
+      "confidence_interval_upper": "2026-09-15T05:56:17.245277Z",
+      "baseline_eta": "2026-09-15T05:12:45.800135Z",
+      "last_station_name": "MAU JN",
+      "last_station_code": "MAU",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    },
+    "1027": {
+      "train_no": 1027,
+      "train_name": "DR GKP SPECIAL",
+      "predicted_delay_min": 114.4,
+      "predicted_residual_min": 114.4,
+      "baseline_delay_min": 0.0,
+      "predicted_eta": "19:35",
+      "delay_label": "1.9 hr late",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        110.0,
+        118.8
+      ],
+      "current_station": "LAR",
+      "destination": "MKP",
+      "destination_full": "MANIKPUR JN",
+      "stops_remaining": 9,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:52:22.008111Z",
+      "live_data_used": false,
+      "current_delay_min": 114.4,
+      "eta": "2026-09-15T06:46:45.905663Z",
+      "confidence_interval_lower": "2026-09-15T06:42:20.105663Z",
+      "confidence_interval_upper": "2026-09-15T06:51:11.705663Z",
+      "baseline_eta": "2026-09-15T04:52:22.008111Z",
+      "last_station_name": "LALITPUR",
+      "last_station_code": "LAR",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    },
+    "1028": {
+      "train_no": 1028,
+      "train_name": "GKP DR SPL",
+      "predicted_delay_min": 3.4,
+      "predicted_residual_min": 3.4,
+      "baseline_delay_min": 0.0,
+      "predicted_eta": "15:49",
+      "delay_label": "Slight Delay",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        0,
+        7.8
+      ],
+      "current_station": "DEOS",
+      "destination": "BTT",
+      "destination_full": "BHATNI JN",
+      "stops_remaining": 2,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:52:28.204180Z",
+      "live_data_used": false,
+      "current_delay_min": 3.4,
+      "eta": "2026-09-15T04:55:49.396750Z",
+      "confidence_interval_lower": "2026-09-15T04:51:23.596750Z",
+      "confidence_interval_upper": "2026-09-15T05:00:15.196750Z",
+      "baseline_eta": "2026-09-15T04:52:28.204180Z",
+      "last_station_name": "DEORIA SADAR",
+      "last_station_code": "DEOS",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    },
+    "1029": {
+      "train_no": 1029,
+      "train_name": "CSMT KOP SPL",
+      "predicted_delay_min": 11.1,
+      "predicted_residual_min": 1.1,
+      "baseline_delay_min": 10.0,
+      "predicted_eta": "15:48",
+      "delay_label": "Slight Delay",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        6.6,
+        15.5
+      ],
+      "current_station": "KYN",
+      "destination": "KYN",
+      "destination_full": "KALYAN JN",
+      "stops_remaining": -1,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:52:34.409050Z",
+      "live_data_used": false,
+      "current_delay_min": 11.1,
+      "eta": "2026-09-15T05:03:38.331877Z",
+      "confidence_interval_lower": "2026-09-15T04:59:12.531877Z",
+      "confidence_interval_upper": "2026-09-15T05:08:04.131877Z",
+      "baseline_eta": "2026-09-15T05:02:34.409050Z",
+      "last_station_name": "KALYAN JN",
+      "last_station_code": "KYN",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    },
+    "1042": {
+      "train_no": 1042,
+      "train_name": "SNSI DR SPECIAL",
+      "predicted_delay_min": 140.9,
+      "predicted_residual_min": -4.1,
+      "baseline_delay_min": 145.0,
+      "predicted_eta": "08:22",
+      "delay_label": "2.3 hr late",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        136.5,
+        145.4
+      ],
+      "current_station": "TNA",
+      "destination": "TNA",
+      "destination_full": "THANE",
+      "stops_remaining": -10,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:52:40.610169Z",
+      "live_data_used": false,
+      "current_delay_min": 140.9,
+      "eta": "2026-09-15T07:13:36.088694Z",
+      "confidence_interval_lower": "2026-09-15T07:09:10.288694Z",
+      "confidence_interval_upper": "2026-09-15T07:18:01.888694Z",
+      "baseline_eta": "2026-09-15T07:17:40.610169Z",
+      "last_station_name": "THANE",
+      "last_station_code": "TNA",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    },
+    "1053": {
+      "train_no": 1053,
+      "train_name": "DVL DNR SPL",
+      "predicted_delay_min": 3.8,
+      "predicted_residual_min": 3.8,
+      "baseline_delay_min": 0.0,
+      "predicted_eta": "20:18",
+      "delay_label": "Slight Delay",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        0,
+        8.2
+      ],
+      "current_station": "DVL",
+      "destination": "DVL",
+      "destination_full": "DEVLALI",
+      "stops_remaining": 1,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:52:46.777773Z",
+      "live_data_used": false,
+      "current_delay_min": 3.8,
+      "eta": "2026-09-15T04:56:33.295474Z",
+      "confidence_interval_lower": "2026-09-15T04:52:07.495474Z",
+      "confidence_interval_upper": "2026-09-15T05:00:59.095474Z",
+      "baseline_eta": "2026-09-15T04:52:46.777773Z",
+      "last_station_name": "DEVLALI",
+      "last_station_code": "DVL",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    },
+    "1054": {
+      "train_no": 1054,
+      "train_name": "DNR MMR SPL",
+      "predicted_delay_min": 50.6,
+      "predicted_residual_min": 50.6,
+      "baseline_delay_min": 0.0,
+      "predicted_eta": "19:40",
+      "delay_label": "50 min late",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        46.2,
+        55.1
+      ],
+      "current_station": "BXR",
+      "destination": "DDU",
+      "destination_full": "PT DEEN DAYAL UPADHYAY JN",
+      "stops_remaining": 2,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:52:53.037510Z",
+      "live_data_used": false,
+      "current_delay_min": 50.6,
+      "eta": "2026-09-15T05:43:31.591969Z",
+      "confidence_interval_lower": "2026-09-15T05:39:05.791969Z",
+      "confidence_interval_upper": "2026-09-15T05:47:57.391969Z",
+      "baseline_eta": "2026-09-15T04:52:53.037510Z",
+      "last_station_name": "BUXAR",
+      "last_station_code": "BXR",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    },
+    "1129": {
+      "train_no": 1129,
+      "train_name": "CSMT SWV SPL",
+      "predicted_delay_min": 0,
+      "predicted_residual_min": -8.1,
+      "baseline_delay_min": 0.0,
+      "predicted_eta": "12:21",
+      "delay_label": "On Time",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        0,
+        4.4
+      ],
+      "current_station": "SWV",
+      "destination": "SWV",
+      "destination_full": "SAWANTWADI ROAD",
+      "stops_remaining": -21,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:52:59.209139Z",
+      "live_data_used": false,
+      "current_delay_min": 0,
+      "eta": "2026-09-15T04:52:59.209139Z",
+      "confidence_interval_lower": "2026-09-15T04:48:33.409139Z",
+      "confidence_interval_upper": "2026-09-15T04:57:25.009139Z",
+      "baseline_eta": "2026-09-15T04:52:59.209139Z",
+      "last_station_name": "SAWANTWADI ROAD",
+      "last_station_code": "SWV",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    },
+    "1139": {
+      "train_no": 1139,
+      "train_name": "NGP MAO SPECIAL",
+      "predicted_delay_min": 0.5,
+      "predicted_residual_min": 0.5,
+      "baseline_delay_min": 0.0,
+      "predicted_eta": "15:05",
+      "delay_label": "Slight Delay",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        0,
+        5.0
+      ],
+      "current_station": "NGP",
+      "destination": "NGP",
+      "destination_full": "NAGPUR",
+      "stops_remaining": 1,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:53:05.384352Z",
+      "live_data_used": false,
+      "current_delay_min": 0.5,
+      "eta": "2026-09-15T04:53:38.327594Z",
+      "confidence_interval_lower": "2026-09-15T04:49:12.527594Z",
+      "confidence_interval_upper": "2026-09-15T04:58:04.127594Z",
+      "baseline_eta": "2026-09-15T04:53:05.384352Z",
+      "last_station_name": "NAGPUR",
+      "last_station_code": "NGP",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    },
+    "1140": {
+      "train_no": 1140,
+      "train_name": "MAO NGP SPECIAL",
+      "predicted_delay_min": 92.3,
+      "predicted_residual_min": 92.3,
+      "baseline_delay_min": 0.0,
+      "predicted_eta": "04:17",
+      "delay_label": "1.5 hr late",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        87.8,
+        96.7
+      ],
+      "current_station": "ROHA",
+      "destination": "WR",
+      "destination_full": "WARDHA JN",
+      "stops_remaining": 13,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:53:11.524456Z",
+      "live_data_used": false,
+      "current_delay_min": 92.3,
+      "eta": "2026-09-15T06:25:26.616009Z",
+      "confidence_interval_lower": "2026-09-15T06:21:00.816009Z",
+      "confidence_interval_upper": "2026-09-15T06:29:52.416009Z",
+      "baseline_eta": "2026-09-15T04:53:11.524456Z",
+      "last_station_name": "ROHA",
+      "last_station_code": "ROHA",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    },
+    "1211": {
+      "train_no": 1211,
+      "train_name": "BD NK SPL",
+      "predicted_delay_min": 66.8,
+      "predicted_residual_min": 55.8,
+      "baseline_delay_min": 11.0,
+      "predicted_eta": "22:05",
+      "delay_label": "1.1 hr late",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        62.4,
+        71.2
+      ],
+      "current_station": "JL",
+      "destination": "NK",
+      "destination_full": "NASIK ROAD",
+      "stops_remaining": 9,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:53:17.662372Z",
+      "live_data_used": false,
+      "current_delay_min": 66.8,
+      "eta": "2026-09-15T06:00:05.884799Z",
+      "confidence_interval_lower": "2026-09-15T05:55:40.084799Z",
+      "confidence_interval_upper": "2026-09-15T06:04:31.684799Z",
+      "baseline_eta": "2026-09-15T05:04:17.662372Z",
+      "last_station_name": "JALGAON JN",
+      "last_station_code": "JL",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "PASS-TRAINS",
+      "_isFallback": true
+    },
+    "1212": {
+      "train_no": 1212,
+      "train_name": "NK BD SPL",
+      "predicted_delay_min": 61.4,
+      "predicted_residual_min": 61.4,
+      "baseline_delay_min": 0.0,
+      "predicted_eta": "08:11",
+      "delay_label": "1.0 hr late",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        56.9,
+        65.8
+      ],
+      "current_station": "BSL",
+      "destination": "BD",
+      "destination_full": "BADNERA JN",
+      "stops_remaining": 9,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:53:23.800027Z",
+      "live_data_used": false,
+      "current_delay_min": 61.4,
+      "eta": "2026-09-15T05:54:46.048715Z",
+      "confidence_interval_lower": "2026-09-15T05:50:20.248715Z",
+      "confidence_interval_upper": "2026-09-15T05:59:11.848715Z",
+      "baseline_eta": "2026-09-15T04:53:23.800027Z",
+      "last_station_name": "BHUSAVAL JN",
+      "last_station_code": "BSL",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "PASS-TRAINS",
+      "_isFallback": true
+    },
+    "1419": {
+      "train_no": 1419,
+      "train_name": "PUNE NGP SF SPL",
+      "predicted_delay_min": 1.5,
+      "predicted_residual_min": -0.5,
+      "baseline_delay_min": 2.0,
+      "predicted_eta": "15:51",
+      "delay_label": "Slight Delay",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        0,
+        5.9
+      ],
+      "current_station": "PUNE",
+      "destination": "PUNE",
+      "destination_full": "PUNE JN",
+      "stops_remaining": 1,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:53:29.973053Z",
+      "live_data_used": false,
+      "current_delay_min": 1.5,
+      "eta": "2026-09-15T04:55:00.115847Z",
+      "confidence_interval_lower": "2026-09-15T04:50:34.315847Z",
+      "confidence_interval_upper": "2026-09-15T04:59:25.915847Z",
+      "baseline_eta": "2026-09-15T04:55:29.973053Z",
+      "last_station_name": "PUNE JN",
+      "last_station_code": "PUNE",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "SF-TRAINS",
+      "_isFallback": true
+    },
+    "1420": {
+      "train_no": 1420,
+      "train_name": "NGP PUNE SF SPL",
+      "predicted_delay_min": 78.7,
+      "predicted_residual_min": 13.8,
+      "baseline_delay_min": 64.9,
+      "predicted_eta": "11:57",
+      "delay_label": "1.3 hr late",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        74.3,
+        83.1
+      ],
+      "current_station": "DMN",
+      "destination": "BD",
+      "destination_full": "BADNERA JN",
+      "stops_remaining": 2,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:53:36.139512Z",
+      "live_data_used": false,
+      "current_delay_min": 78.7,
+      "eta": "2026-09-15T06:12:18.238400Z",
+      "confidence_interval_lower": "2026-09-15T06:07:52.438400Z",
+      "confidence_interval_upper": "2026-09-15T06:16:44.038400Z",
+      "baseline_eta": "2026-09-15T05:58:30.139512Z",
+      "last_station_name": "DHAMANGAON",
+      "last_station_code": "DMN",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "SF-TRAINS",
+      "_isFallback": true
+    },
+    "1435": {
+      "train_no": 1435,
+      "train_name": "SUR LTT SPECIAL",
+      "predicted_delay_min": 202.1,
+      "predicted_residual_min": 73.9,
+      "baseline_delay_min": 128.2,
+      "predicted_eta": "23:21",
+      "delay_label": "3.4 hr late",
+      "confidence_score": 0.72,
+      "uncertainty_range": [
+        197.6,
+        206.5
+      ],
+      "current_station": "BHLK",
+      "destination": "DRSV",
+      "destination_full": "DHARASHIV",
+      "stops_remaining": 6,
+      "model_version": "model_a_v1",
+      "timestamp": "2026-09-15T03:53:42.295572Z",
+      "live_data_used": false,
+      "current_delay_min": 202.1,
+      "eta": "2026-09-15T08:15:46.073679Z",
+      "confidence_interval_lower": "2026-09-15T08:11:20.273679Z",
+      "confidence_interval_upper": "2026-09-15T08:20:11.873679Z",
+      "baseline_eta": "2026-09-15T07:01:54.295572Z",
+      "last_station_name": "BHALKI",
+      "last_station_code": "BHLK",
+      "data_confidence_score": 0.72,
+      "model_used": "model_a_static",
+      "type_code": "EXP-TRAINS",
+      "_isFallback": true
+    }
+  },
+  "explanations": {
+    "961": {
+      "train_no": 961,
+      "train_name": "VALLEY QUEEN SPL",
+      "current_delay_min": 0.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": -0.33,
+          "importance_score": 0.2289,
+          "impact": "positive"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "positive"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 0.0,
+          "importance_score": 0.1494,
+          "impact": "positive"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 0.0,
+          "importance_score": 0.1015,
+          "impact": "positive"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 0.0,
+          "importance_score": 0.0379,
+          "impact": "positive"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "962": {
+      "train_no": 962,
+      "train_name": "VALLEY QUEEN SPL",
+      "current_delay_min": 0.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": -1.33,
+          "importance_score": 0.2289,
+          "impact": "positive"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "positive"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 0.0,
+          "importance_score": 0.1494,
+          "impact": "positive"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 0.0,
+          "importance_score": 0.1015,
+          "impact": "positive"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 0.0,
+          "importance_score": 0.0379,
+          "impact": "positive"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1023": {
+      "train_no": 1023,
+      "train_name": "PUNE KOP SPECIAL",
+      "current_delay_min": 6.8,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 32.67,
+          "importance_score": 0.2289,
+          "impact": "negative"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "positive"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 49.72,
+          "importance_score": 0.1494,
+          "impact": "negative"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 6.8,
+          "importance_score": 0.1015,
+          "impact": "positive"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 8.5,
+          "importance_score": 0.0379,
+          "impact": "positive"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1024": {
+      "train_no": 1024,
+      "train_name": "KOP PUNE SPECIAL",
+      "current_delay_min": 0.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 17.27,
+          "importance_score": 0.2289,
+          "impact": "negative"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "positive"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 24.37,
+          "importance_score": 0.1494,
+          "impact": "negative"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 0.0,
+          "importance_score": 0.1015,
+          "impact": "positive"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 2.5,
+          "importance_score": 0.0379,
+          "impact": "positive"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1025": {
+      "train_no": 1025,
+      "train_name": "DR BALLIA SPL",
+      "current_delay_min": 0.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 23.81,
+          "importance_score": 0.2289,
+          "impact": "negative"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "positive"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 117.53,
+          "importance_score": 0.1494,
+          "impact": "negative"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 0.0,
+          "importance_score": 0.1015,
+          "impact": "positive"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": -10.0,
+          "importance_score": 0.0379,
+          "impact": "positive"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1026": {
+      "train_no": 1026,
+      "train_name": "BUI DR SPL",
+      "current_delay_min": 20.5,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 119.76,
+          "importance_score": 0.2289,
+          "impact": "negative"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "positive"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 109.93,
+          "importance_score": 0.1494,
+          "impact": "negative"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 20.5,
+          "importance_score": 0.1015,
+          "impact": "negative"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 22.5,
+          "importance_score": 0.0379,
+          "impact": "negative"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1027": {
+      "train_no": 1027,
+      "train_name": "DR GKP SPECIAL",
+      "current_delay_min": 0.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 139.83,
+          "importance_score": 0.2289,
+          "impact": "negative"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "positive"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 120.57,
+          "importance_score": 0.1494,
+          "impact": "negative"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 0.0,
+          "importance_score": 0.1015,
+          "impact": "positive"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 12.0,
+          "importance_score": 0.0379,
+          "impact": "negative"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1028": {
+      "train_no": 1028,
+      "train_name": "GKP DR SPL",
+      "current_delay_min": 0.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 0.0,
+          "importance_score": 0.2289,
+          "impact": "positive"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "positive"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 2.37,
+          "importance_score": 0.1494,
+          "impact": "positive"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 0.0,
+          "importance_score": 0.1015,
+          "impact": "positive"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 0.0,
+          "importance_score": 0.0379,
+          "impact": "positive"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1029": {
+      "train_no": 1029,
+      "train_name": "CSMT KOP SPL",
+      "current_delay_min": 10.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 6.0,
+          "importance_score": 0.2289,
+          "impact": "positive"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "negative"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 6.0,
+          "importance_score": 0.1494,
+          "impact": "positive"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 10.0,
+          "importance_score": 0.1015,
+          "impact": "positive"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 0.0,
+          "importance_score": 0.0379,
+          "impact": "positive"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1042": {
+      "train_no": 1042,
+      "train_name": "SNSI DR SPECIAL",
+      "current_delay_min": 145.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 146.0,
+          "importance_score": 0.2289,
+          "impact": "negative"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "negative"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 127.39,
+          "importance_score": 0.1494,
+          "impact": "negative"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 145.0,
+          "importance_score": 0.1015,
+          "impact": "negative"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 0.0,
+          "importance_score": 0.0379,
+          "impact": "positive"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1053": {
+      "train_no": 1053,
+      "train_name": "DVL DNR SPL",
+      "current_delay_min": 0.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 9.82,
+          "importance_score": 0.2289,
+          "impact": "positive"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "negative"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 9.82,
+          "importance_score": 0.1494,
+          "impact": "positive"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 0.0,
+          "importance_score": 0.1015,
+          "impact": "positive"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 0.0,
+          "importance_score": 0.0379,
+          "impact": "positive"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1054": {
+      "train_no": 1054,
+      "train_name": "DNR MMR SPL",
+      "current_delay_min": 0.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 61.8,
+          "importance_score": 0.2289,
+          "impact": "negative"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "positive"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 113.3,
+          "importance_score": 0.1494,
+          "impact": "negative"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 0.0,
+          "importance_score": 0.1015,
+          "impact": "positive"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 24.0,
+          "importance_score": 0.0379,
+          "impact": "negative"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1129": {
+      "train_no": 1129,
+      "train_name": "CSMT SWV SPL",
+      "current_delay_min": 0.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 64.47,
+          "importance_score": 0.2289,
+          "impact": "negative"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "negative"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 26.43,
+          "importance_score": 0.1494,
+          "impact": "negative"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 0.0,
+          "importance_score": 0.1015,
+          "impact": "positive"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 0.0,
+          "importance_score": 0.0379,
+          "impact": "positive"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1139": {
+      "train_no": 1139,
+      "train_name": "NGP MAO SPECIAL",
+      "current_delay_min": 0.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 4.9,
+          "importance_score": 0.2289,
+          "impact": "positive"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "negative"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 11.96,
+          "importance_score": 0.1494,
+          "impact": "negative"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 0.0,
+          "importance_score": 0.1015,
+          "impact": "positive"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 0.0,
+          "importance_score": 0.0379,
+          "impact": "positive"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1140": {
+      "train_no": 1140,
+      "train_name": "MAO NGP SPECIAL",
+      "current_delay_min": 0.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 184.93,
+          "importance_score": 0.2289,
+          "impact": "negative"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "positive"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 88.43,
+          "importance_score": 0.1494,
+          "impact": "negative"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 0.0,
+          "importance_score": 0.1015,
+          "impact": "positive"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": -42.5,
+          "importance_score": 0.0379,
+          "impact": "positive"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1211": {
+      "train_no": 1211,
+      "train_name": "BD NK SPL",
+      "current_delay_min": 11.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 32.9,
+          "importance_score": 0.2289,
+          "impact": "negative"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "positive"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 27.3,
+          "importance_score": 0.1494,
+          "impact": "negative"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 11.0,
+          "importance_score": 0.1015,
+          "impact": "negative"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": -22.5,
+          "importance_score": 0.0379,
+          "impact": "positive"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1212": {
+      "train_no": 1212,
+      "train_name": "NK BD SPL",
+      "current_delay_min": 0.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 78.8,
+          "importance_score": 0.2289,
+          "impact": "negative"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "positive"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 64.48,
+          "importance_score": 0.1494,
+          "impact": "negative"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 0.0,
+          "importance_score": 0.1015,
+          "impact": "positive"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 20.5,
+          "importance_score": 0.0379,
+          "impact": "negative"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1419": {
+      "train_no": 1419,
+      "train_name": "PUNE NGP SF SPL",
+      "current_delay_min": 2.0,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 215.71,
+          "importance_score": 0.2289,
+          "impact": "negative"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "negative"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 36.87,
+          "importance_score": 0.1494,
+          "impact": "negative"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 2.0,
+          "importance_score": 0.1015,
+          "impact": "positive"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 0.0,
+          "importance_score": 0.0379,
+          "impact": "positive"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1420": {
+      "train_no": 1420,
+      "train_name": "NGP PUNE SF SPL",
+      "current_delay_min": 64.9,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 238.0,
+          "importance_score": 0.2289,
+          "impact": "negative"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "positive"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 114.8,
+          "importance_score": 0.1494,
+          "impact": "negative"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 64.9,
+          "importance_score": 0.1015,
+          "impact": "negative"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 8.0,
+          "importance_score": 0.0379,
+          "impact": "positive"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    },
+    "1435": {
+      "train_no": 1435,
+      "train_name": "SUR LTT SPECIAL",
+      "current_delay_min": 128.2,
+      "top_factors": [
+        {
+          "feature": "train_number_avg_delay_30d",
+          "label": "This train's own punctuality record",
+          "value": 132.0,
+          "importance_score": 0.2289,
+          "impact": "negative"
+        },
+        {
+          "feature": "recovery_margin_remaining_min",
+          "label": "Scheduled recovery time remaining",
+          "value": null,
+          "importance_score": 0.1726,
+          "impact": "positive"
+        },
+        {
+          "feature": "section_avg_delay_30d",
+          "label": "This section's recent delay history (30d)",
+          "value": 139.05,
+          "importance_score": 0.1494,
+          "impact": "negative"
+        },
+        {
+          "feature": "baseline_delay_estimate",
+          "label": "Existing delay carried forward",
+          "value": 128.2,
+          "importance_score": 0.1015,
+          "impact": "negative"
+        },
+        {
+          "feature": "delay_trend_last_3_points",
+          "label": "Delay worsening or improving trend",
+          "value": 16.5,
+          "importance_score": 0.0379,
+          "impact": "negative"
+        }
+      ],
+      "top_delay_factors": [
+        "This train's own punctuality record",
+        "Scheduled recovery time remaining",
+        "This section's recent delay history (30d)",
+        "Existing delay carried forward",
+        "Delay worsening or improving trend"
+      ],
+      "model_version": "model_a_v1",
+      "_isFallback": true
+    }
+  },
+  "replays": {
+    "961": {
+      "train_no": 961,
+      "train_name": "VALLEY QUEEN SPL",
+      "date": "2026-02-04",
+      "total_stops": 3,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "MJ",
+          "station_name": "MARWAR JN",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 11.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 0.0,
+          "lat": 25.7205,
+          "lon": 73.6093
+        },
+        {
+          "station_no": 2,
+          "station_code": "FLD",
+          "station_name": "PHULAD",
+          "scheduled_arr": "11:00",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 26.0,
+          "lat": 25.624,
+          "lon": 73.8131
+        },
+        {
+          "station_no": 3,
+          "station_code": "KBK",
+          "station_name": "KHAMIL GHAT",
+          "scheduled_arr": "12:45",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 47.0,
+          "lat": 25.6268,
+          "lon": 73.8649
+        }
+      ],
+      "_isFallback": true
+    },
+    "962": {
+      "train_no": 962,
+      "train_name": "VALLEY QUEEN SPL",
+      "date": "2026-02-04",
+      "total_stops": 3,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "KBK",
+          "station_name": "KHAMIL GHAT",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 0.0,
+          "lat": 25.6268,
+          "lon": 73.8649
+        },
+        {
+          "station_no": 2,
+          "station_code": "FLD",
+          "station_name": "PHULAD",
+          "scheduled_arr": "16:00",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 22.0,
+          "lat": 25.624,
+          "lon": 73.8131
+        },
+        {
+          "station_no": 3,
+          "station_code": "MJ",
+          "station_name": "MARWAR JN",
+          "scheduled_arr": "17:30",
+          "actual_delay_min": -6.0,
+          "delay_label": "On Time",
+          "distance_km": 47.0,
+          "lat": 25.7205,
+          "lon": 73.6093
+        }
+      ],
+      "_isFallback": true
+    },
+    "1023": {
+      "train_no": 1023,
+      "train_name": "PUNE KOP SPECIAL",
+      "date": "2026-02-07",
+      "total_stops": 22,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "PUNE",
+          "station_name": "PUNE JN",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 0.0,
+          "lat": 18.5284,
+          "lon": 73.8743
+        },
+        {
+          "station_no": 2,
+          "station_code": "SSV",
+          "station_name": "SASVAD ROAD",
+          "scheduled_arr": "21:59",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 12.0,
+          "lat": 18.4732,
+          "lon": 73.9546
+        },
+        {
+          "station_no": 3,
+          "station_code": "JJR",
+          "station_name": "JEJURI",
+          "scheduled_arr": "22:44",
+          "actual_delay_min": 21.0,
+          "delay_label": "21 min late",
+          "distance_km": 59.0,
+          "lat": 18.2866,
+          "lon": 74.1715
+        },
+        {
+          "station_no": 4,
+          "station_code": "NIRA",
+          "station_name": "NIRA",
+          "scheduled_arr": "23:13",
+          "actual_delay_min": 24.0,
+          "delay_label": "24 min late",
+          "distance_km": 85.0,
+          "lat": 18.105,
+          "lon": 74.2091
+        },
+        {
+          "station_no": 5,
+          "station_code": "LNN",
+          "station_name": "LONAND JN",
+          "scheduled_arr": "23:23",
+          "actual_delay_min": 28.0,
+          "delay_label": "28 min late",
+          "distance_km": 93.0,
+          "lat": 18.0408,
+          "lon": 74.1905
+        },
+        {
+          "station_no": 6,
+          "station_code": "WTR",
+          "station_name": "WATHAR",
+          "scheduled_arr": "23:53",
+          "actual_delay_min": 31.0,
+          "delay_label": "31 min late",
+          "distance_km": 120.0,
+          "lat": 17.8905,
+          "lon": 74.1358
+        },
+        {
+          "station_no": 7,
+          "station_code": "STR",
+          "station_name": "SATARA",
+          "scheduled_arr": "00:22",
+          "actual_delay_min": 37.0,
+          "delay_label": "37 min late",
+          "distance_km": 146.0,
+          "lat": 17.6884,
+          "lon": 74.0637
+        },
+        {
+          "station_no": 8,
+          "station_code": "KRG",
+          "station_name": "KOREGAON",
+          "scheduled_arr": "00:36",
+          "actual_delay_min": 46.0,
+          "delay_label": "46 min late",
+          "distance_km": 157.0,
+          "lat": 17.691,
+          "lon": 74.1476
+        },
+        {
+          "station_no": 9,
+          "station_code": "RMP",
+          "station_name": "RAHIMATPUR",
+          "scheduled_arr": "00:49",
+          "actual_delay_min": 50.0,
+          "delay_label": "50 min late",
+          "distance_km": 167.0,
+          "lat": 17.6122,
+          "lon": 74.1722
+        },
+        {
+          "station_no": 10,
+          "station_code": "TAZ",
+          "station_name": "TARGAON",
+          "scheduled_arr": "00:59",
+          "actual_delay_min": 54.0,
+          "delay_label": "54 min late",
+          "distance_km": 178.0,
+          "lat": 17.5142,
+          "lon": 74.1558
+        },
+        {
+          "station_no": 11,
+          "station_code": "MSR",
+          "station_name": "MASUR",
+          "scheduled_arr": "01:14",
+          "actual_delay_min": 69.0,
+          "delay_label": "1.1 hr late",
+          "distance_km": 190.0,
+          "lat": 17.4042,
+          "lon": 74.1442
+        },
+        {
+          "station_no": 12,
+          "station_code": "KRD",
+          "station_name": "KARAD",
+          "scheduled_arr": "01:34",
+          "actual_delay_min": 71.0,
+          "delay_label": "1.2 hr late",
+          "distance_km": 204.0,
+          "lat": 17.31,
+          "lon": 74.2157
+        },
+        {
+          "station_no": 13,
+          "station_code": "TKR",
+          "station_name": "TAKARI",
+          "scheduled_arr": "01:59",
+          "actual_delay_min": 75.0,
+          "delay_label": "1.2 hr late",
+          "distance_km": 231.0,
+          "lat": 17.1298,
+          "lon": 74.3634
+        },
+        {
+          "station_no": 14,
+          "station_code": "KOV",
+          "station_name": "KIRLOSKARVADI",
+          "scheduled_arr": "02:15",
+          "actual_delay_min": 70.0,
+          "delay_label": "1.2 hr late",
+          "distance_km": 239.0,
+          "lat": 17.0842,
+          "lon": 74.4164
+        },
+        {
+          "station_no": 15,
+          "station_code": "BVQ",
+          "station_name": "BHILAVDI",
+          "scheduled_arr": "02:29",
+          "actual_delay_min": 70.0,
+          "delay_label": "1.2 hr late",
+          "distance_km": 253.0,
+          "lat": 17.008,
+          "lon": 74.5168
+        },
+        {
+          "station_no": 16,
+          "station_code": "SLI",
+          "station_name": "SANGLI",
+          "scheduled_arr": "02:47",
+          "actual_delay_min": 69.0,
+          "delay_label": "1.1 hr late",
+          "distance_km": 272.0,
+          "lat": 16.8587,
+          "lon": 74.5889
+        },
+        {
+          "station_no": 17,
+          "station_code": "MRJ",
+          "station_name": "MIRAJ JN",
+          "scheduled_arr": "03:25",
+          "actual_delay_min": 52.0,
+          "delay_label": "52 min late",
+          "distance_km": 279.0,
+          "lat": 16.8199,
+          "lon": 74.6388
+        },
+        {
+          "station_no": 18,
+          "station_code": "JSP",
+          "station_name": "JAYASINGPUR",
+          "scheduled_arr": "03:34",
+          "actual_delay_min": 68.0,
+          "delay_label": "1.1 hr late",
+          "distance_km": 291.0,
+          "lat": 16.7913,
+          "lon": 74.5516
+        },
+        {
+          "station_no": 19,
+          "station_code": "HTK",
+          "station_name": "HATKANAGALE",
+          "scheduled_arr": "03:54",
+          "actual_delay_min": 78.0,
+          "delay_label": "1.3 hr late",
+          "distance_km": 306.0,
+          "lat": 16.7484,
+          "lon": 74.4221
+        },
+        {
+          "station_no": 20,
+          "station_code": "RKD",
+          "station_name": "RUKADI",
+          "scheduled_arr": "04:05",
+          "actual_delay_min": 84.0,
+          "delay_label": "1.4 hr late",
+          "distance_km": 313.0,
+          "lat": 16.7249,
+          "lon": 74.3567
+        },
+        {
+          "station_no": 21,
+          "station_code": "VV",
+          "station_name": "VALIVADE",
+          "scheduled_arr": "04:13",
+          "actual_delay_min": 84.0,
+          "delay_label": "1.4 hr late",
+          "distance_km": 320.0,
+          "lat": 16.7036,
+          "lon": 74.299
+        },
+        {
+          "station_no": 22,
+          "station_code": "KOP",
+          "station_name": "C SHAHUMHARAJ T",
+          "scheduled_arr": "05:08",
+          "actual_delay_min": 41.0,
+          "delay_label": "41 min late",
+          "distance_km": 326.0,
+          "lat": 16.7026,
+          "lon": 74.2377
+        }
+      ],
+      "_isFallback": true
+    },
+    "1024": {
+      "train_no": 1024,
+      "train_name": "KOP PUNE SPECIAL",
+      "date": "2026-02-07",
+      "total_stops": 22,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "KOP",
+          "station_name": "C SHAHUMHARAJ T",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 0.0,
+          "lat": 16.7026,
+          "lon": 74.2377
+        },
+        {
+          "station_no": 2,
+          "station_code": "VV",
+          "station_name": "VALIVADE",
+          "scheduled_arr": "23:39",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 7.0,
+          "lat": 16.7036,
+          "lon": 74.299
+        },
+        {
+          "station_no": 3,
+          "station_code": "RKD",
+          "station_name": "RUKADI",
+          "scheduled_arr": "23:47",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 14.0,
+          "lat": 16.7249,
+          "lon": 74.3567
+        },
+        {
+          "station_no": 4,
+          "station_code": "HTK",
+          "station_name": "HATKANAGALE",
+          "scheduled_arr": "23:58",
+          "actual_delay_min": 4.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 21.0,
+          "lat": 16.7484,
+          "lon": 74.4221
+        },
+        {
+          "station_no": 5,
+          "station_code": "JSP",
+          "station_name": "JAYASINGPUR",
+          "scheduled_arr": "00:14",
+          "actual_delay_min": 4.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 36.0,
+          "lat": 16.7913,
+          "lon": 74.5516
+        },
+        {
+          "station_no": 6,
+          "station_code": "MRJ",
+          "station_name": "MIRAJ JN",
+          "scheduled_arr": "00:40",
+          "actual_delay_min": 8.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 48.0,
+          "lat": 16.8199,
+          "lon": 74.6388
+        },
+        {
+          "station_no": 7,
+          "station_code": "SLI",
+          "station_name": "SANGLI",
+          "scheduled_arr": "00:52",
+          "actual_delay_min": 20.0,
+          "delay_label": "20 min late",
+          "distance_km": 55.0,
+          "lat": 16.8587,
+          "lon": 74.5889
+        },
+        {
+          "station_no": 8,
+          "station_code": "BVQ",
+          "station_name": "BHILAVDI",
+          "scheduled_arr": "01:14",
+          "actual_delay_min": 21.0,
+          "delay_label": "21 min late",
+          "distance_km": 74.0,
+          "lat": 17.008,
+          "lon": 74.5168
+        },
+        {
+          "station_no": 9,
+          "station_code": "KOV",
+          "station_name": "KIRLOSKARVADI",
+          "scheduled_arr": "01:29",
+          "actual_delay_min": 23.0,
+          "delay_label": "23 min late",
+          "distance_km": 88.0,
+          "lat": 17.0842,
+          "lon": 74.4164
+        },
+        {
+          "station_no": 10,
+          "station_code": "TKR",
+          "station_name": "TAKARI",
+          "scheduled_arr": "01:38",
+          "actual_delay_min": 28.0,
+          "delay_label": "28 min late",
+          "distance_km": 96.0,
+          "lat": 17.1298,
+          "lon": 74.3634
+        },
+        {
+          "station_no": 11,
+          "station_code": "KRD",
+          "station_name": "KARAD",
+          "scheduled_arr": "02:07",
+          "actual_delay_min": 30.0,
+          "delay_label": "30 min late",
+          "distance_km": 123.0,
+          "lat": 17.31,
+          "lon": 74.2157
+        },
+        {
+          "station_no": 12,
+          "station_code": "MSR",
+          "station_name": "MASUR",
+          "scheduled_arr": "02:24",
+          "actual_delay_min": 33.0,
+          "delay_label": "33 min late",
+          "distance_km": 137.0,
+          "lat": 17.4042,
+          "lon": 74.1442
+        },
+        {
+          "station_no": 13,
+          "station_code": "TAZ",
+          "station_name": "TARGAON",
+          "scheduled_arr": "02:34",
+          "actual_delay_min": 41.0,
+          "delay_label": "41 min late",
+          "distance_km": 149.0,
+          "lat": 17.5142,
+          "lon": 74.1558
+        },
+        {
+          "station_no": 14,
+          "station_code": "RMP",
+          "station_name": "RAHIMATPUR",
+          "scheduled_arr": "02:49",
+          "actual_delay_min": 43.0,
+          "delay_label": "43 min late",
+          "distance_km": 160.0,
+          "lat": 17.6122,
+          "lon": 74.1722
+        },
+        {
+          "station_no": 15,
+          "station_code": "KRG",
+          "station_name": "KOREGAON",
+          "scheduled_arr": "03:03",
+          "actual_delay_min": 36.0,
+          "delay_label": "36 min late",
+          "distance_km": 170.0,
+          "lat": 17.691,
+          "lon": 74.1476
+        },
+        {
+          "station_no": 16,
+          "station_code": "STR",
+          "station_name": "SATARA",
+          "scheduled_arr": "03:42",
+          "actual_delay_min": 24.0,
+          "delay_label": "24 min late",
+          "distance_km": 181.0,
+          "lat": 17.6884,
+          "lon": 74.0637
+        },
+        {
+          "station_no": 17,
+          "station_code": "WTR",
+          "station_name": "WATHAR",
+          "scheduled_arr": "04:13",
+          "actual_delay_min": 25.0,
+          "delay_label": "25 min late",
+          "distance_km": 207.0,
+          "lat": 17.8905,
+          "lon": 74.1358
+        },
+        {
+          "station_no": 18,
+          "station_code": "LNN",
+          "station_name": "LONAND JN",
+          "scheduled_arr": "04:48",
+          "actual_delay_min": 28.0,
+          "delay_label": "28 min late",
+          "distance_km": 234.0,
+          "lat": 18.0408,
+          "lon": 74.1905
+        },
+        {
+          "station_no": 19,
+          "station_code": "NIRA",
+          "station_name": "NIRA",
+          "scheduled_arr": "05:03",
+          "actual_delay_min": 26.0,
+          "delay_label": "26 min late",
+          "distance_km": 242.0,
+          "lat": 18.105,
+          "lon": 74.2091
+        },
+        {
+          "station_no": 20,
+          "station_code": "JJR",
+          "station_name": "JEJURI",
+          "scheduled_arr": "05:44",
+          "actual_delay_min": 18.0,
+          "delay_label": "18 min late",
+          "distance_km": 268.0,
+          "lat": 18.2866,
+          "lon": 74.1715
+        },
+        {
+          "station_no": 21,
+          "station_code": "SSV",
+          "station_name": "SASVAD ROAD",
+          "scheduled_arr": "06:34",
+          "actual_delay_min": 10.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 315.0,
+          "lat": 18.4732,
+          "lon": 73.9546
+        },
+        {
+          "station_no": 22,
+          "station_code": "PUNE",
+          "station_name": "PUNE JN",
+          "scheduled_arr": "07:05",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 326.0,
+          "lat": 18.5284,
+          "lon": 73.8743
+        }
+      ],
+      "_isFallback": true
+    },
+    "1025": {
+      "train_no": 1025,
+      "train_name": "DR BALLIA SPL",
+      "date": "2026-02-06",
+      "total_stops": 17,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "DR",
+          "station_name": "DADAR",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 1.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 0.0,
+          "lat": 19.0172,
+          "lon": 72.843
+        },
+        {
+          "station_no": 2,
+          "station_code": "KYN",
+          "station_name": "KALYAN JN",
+          "scheduled_arr": "14:55",
+          "actual_delay_min": 32.0,
+          "delay_label": "32 min late",
+          "distance_km": 45.0,
+          "lat": 19.2437,
+          "lon": 73.1355
+        },
+        {
+          "station_no": 3,
+          "station_code": "NK",
+          "station_name": "NASIK ROAD",
+          "scheduled_arr": "17:28",
+          "actual_delay_min": 32.0,
+          "delay_label": "32 min late",
+          "distance_km": 179.0,
+          "lat": 19.9476,
+          "lon": 73.8419
+        },
+        {
+          "station_no": 4,
+          "station_code": "BSL",
+          "station_name": "BHUSAVAL JN",
+          "scheduled_arr": "21:05",
+          "actual_delay_min": 49.0,
+          "delay_label": "49 min late",
+          "distance_km": 436.0,
+          "lat": 21.0393,
+          "lon": 75.7849
+        },
+        {
+          "station_no": 5,
+          "station_code": "HD",
+          "station_name": "HARDA",
+          "scheduled_arr": "01:05",
+          "actual_delay_min": 11.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 667.0,
+          "lat": 22.3384,
+          "lon": 77.1008
+        },
+        {
+          "station_no": 6,
+          "station_code": "ET",
+          "station_name": "ITARSI JN",
+          "scheduled_arr": "02:25",
+          "actual_delay_min": 17.0,
+          "delay_label": "17 min late",
+          "distance_km": 743.0,
+          "lat": 22.6136,
+          "lon": 77.76
+        },
+        {
+          "station_no": 7,
+          "station_code": "RKMP",
+          "station_name": "RANI KAMLAPATI",
+          "scheduled_arr": "04:00",
+          "actual_delay_min": 26.0,
+          "delay_label": "26 min late",
+          "distance_km": 835.0,
+          "lat": null,
+          "lon": null
+        },
+        {
+          "station_no": 8,
+          "station_code": "BINA",
+          "station_name": "BINA JN",
+          "scheduled_arr": "06:45",
+          "actual_delay_min": 9.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 979.0,
+          "lat": 24.171,
+          "lon": 78.1832
+        },
+        {
+          "station_no": 9,
+          "station_code": "LAR",
+          "station_name": "LALITPUR",
+          "scheduled_arr": "07:55",
+          "actual_delay_min": 6.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 1042.0,
+          "lat": 24.6882,
+          "lon": 78.3958
+        },
+        {
+          "station_no": 10,
+          "station_code": "TKMG",
+          "station_name": "TIKAMGARH",
+          "scheduled_arr": "08:40",
+          "actual_delay_min": 13.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 1094.0,
+          "lat": 24.7673,
+          "lon": 78.8407
+        },
+        {
+          "station_no": 11,
+          "station_code": "KHGP",
+          "station_name": "KHARGAPUR",
+          "scheduled_arr": "09:20",
+          "actual_delay_min": 4.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 1130.0,
+          "lat": null,
+          "lon": null
+        },
+        {
+          "station_no": 12,
+          "station_code": "MCSC",
+          "station_name": "CHHATARPUR",
+          "scheduled_arr": "10:35",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 1177.0,
+          "lat": null,
+          "lon": null
+        },
+        {
+          "station_no": 13,
+          "station_code": "KURJ",
+          "station_name": "KHAJURAHO",
+          "scheduled_arr": "11:20",
+          "actual_delay_min": 3.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 1208.0,
+          "lat": 24.797,
+          "lon": 79.89
+        },
+        {
+          "station_no": 14,
+          "station_code": "MBA",
+          "station_name": "MAHOBA JN",
+          "scheduled_arr": "13:00",
+          "actual_delay_min": 1.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 1271.0,
+          "lat": 25.3069,
+          "lon": 79.8491
+        },
+        {
+          "station_no": 15,
+          "station_code": "BNDA",
+          "station_name": "BANDA JN",
+          "scheduled_arr": "14:45",
+          "actual_delay_min": 8.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 1325.0,
+          "lat": 25.4777,
+          "lon": 80.3362
+        },
+        {
+          "station_no": 16,
+          "station_code": "CKTD",
+          "station_name": "CHITRAKOOTDHAM",
+          "scheduled_arr": "16:08",
+          "actual_delay_min": 19.0,
+          "delay_label": "19 min late",
+          "distance_km": 1394.0,
+          "lat": 25.2176,
+          "lon": 80.9228
+        },
+        {
+          "station_no": 17,
+          "station_code": "MKP",
+          "station_name": "MANIKPUR JN",
+          "scheduled_arr": "16:48",
+          "actual_delay_min": 20.0,
+          "delay_label": "20 min late",
+          "distance_km": 1425.0,
+          "lat": 25.0635,
+          "lon": 81.0937
+        }
+      ],
+      "_isFallback": true
+    },
+    "1026": {
+      "train_no": 1026,
+      "train_name": "BUI DR SPL",
+      "date": "2026-02-06",
+      "total_stops": 5,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "BUI",
+          "station_name": "BALLIA",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 16.0,
+          "delay_label": "16 min late",
+          "distance_km": 0.0,
+          "lat": 25.7606,
+          "lon": 84.1531
+        },
+        {
+          "station_no": 2,
+          "station_code": "RSR",
+          "station_name": "RASRA",
+          "scheduled_arr": "15:50",
+          "actual_delay_min": 53.0,
+          "delay_label": "53 min late",
+          "distance_km": 33.0,
+          "lat": 25.8617,
+          "lon": 83.8578
+        },
+        {
+          "station_no": 3,
+          "station_code": "MAU",
+          "station_name": "MAU JN",
+          "scheduled_arr": "16:50",
+          "actual_delay_min": 61.0,
+          "delay_label": "1.0 hr late",
+          "distance_km": 69.0,
+          "lat": 25.9395,
+          "lon": 83.5643
+        },
+        {
+          "station_no": 4,
+          "station_code": "ARJ",
+          "station_name": "AUNRIHAR JN",
+          "scheduled_arr": "18:00",
+          "actual_delay_min": 92.0,
+          "delay_label": "1.5 hr late",
+          "distance_km": 127.0,
+          "lat": 25.5447,
+          "lon": 83.1873
+        },
+        {
+          "station_no": 5,
+          "station_code": "BSB",
+          "station_name": "VARANASI JN",
+          "scheduled_arr": "18:45",
+          "actual_delay_min": 81.0,
+          "delay_label": "1.4 hr late",
+          "distance_km": 162.0,
+          "lat": 25.3273,
+          "lon": 82.9865
+        }
+      ],
+      "_isFallback": true
+    },
+    "1027": {
+      "train_no": 1027,
+      "train_name": "DR GKP SPECIAL",
+      "date": "2026-02-07",
+      "total_stops": 17,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "DR",
+          "station_name": "DADAR",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 0.0,
+          "lat": 19.0172,
+          "lon": 72.843
+        },
+        {
+          "station_no": 2,
+          "station_code": "KYN",
+          "station_name": "KALYAN JN",
+          "scheduled_arr": "14:55",
+          "actual_delay_min": 11.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 45.0,
+          "lat": 19.2437,
+          "lon": 73.1355
+        },
+        {
+          "station_no": 3,
+          "station_code": "NK",
+          "station_name": "NASIK ROAD",
+          "scheduled_arr": "17:28",
+          "actual_delay_min": 22.0,
+          "delay_label": "22 min late",
+          "distance_km": 179.0,
+          "lat": 19.9476,
+          "lon": 73.8419
+        },
+        {
+          "station_no": 4,
+          "station_code": "BSL",
+          "station_name": "BHUSAVAL JN",
+          "scheduled_arr": "21:05",
+          "actual_delay_min": 67.0,
+          "delay_label": "1.1 hr late",
+          "distance_km": 436.0,
+          "lat": 21.0393,
+          "lon": 75.7849
+        },
+        {
+          "station_no": 5,
+          "station_code": "HD",
+          "station_name": "HARDA",
+          "scheduled_arr": "01:05",
+          "actual_delay_min": 84.0,
+          "delay_label": "1.4 hr late",
+          "distance_km": 667.0,
+          "lat": 22.3384,
+          "lon": 77.1008
+        },
+        {
+          "station_no": 6,
+          "station_code": "ET",
+          "station_name": "ITARSI JN",
+          "scheduled_arr": "02:25",
+          "actual_delay_min": 109.0,
+          "delay_label": "1.8 hr late",
+          "distance_km": 743.0,
+          "lat": 22.6136,
+          "lon": 77.76
+        },
+        {
+          "station_no": 7,
+          "station_code": "RKMP",
+          "station_name": "RANI KAMLAPATI",
+          "scheduled_arr": "04:00",
+          "actual_delay_min": 120.0,
+          "delay_label": "2.0 hr late",
+          "distance_km": 835.0,
+          "lat": null,
+          "lon": null
+        },
+        {
+          "station_no": 8,
+          "station_code": "BINA",
+          "station_name": "BINA JN",
+          "scheduled_arr": "06:45",
+          "actual_delay_min": 133.0,
+          "delay_label": "2.2 hr late",
+          "distance_km": 979.0,
+          "lat": 24.171,
+          "lon": 78.1832
+        },
+        {
+          "station_no": 9,
+          "station_code": "LAR",
+          "station_name": "LALITPUR",
+          "scheduled_arr": "07:55",
+          "actual_delay_min": 144.0,
+          "delay_label": "2.4 hr late",
+          "distance_km": 1042.0,
+          "lat": 24.6882,
+          "lon": 78.3958
+        },
+        {
+          "station_no": 10,
+          "station_code": "TKMG",
+          "station_name": "TIKAMGARH",
+          "scheduled_arr": "08:40",
+          "actual_delay_min": 164.0,
+          "delay_label": "2.7 hr late",
+          "distance_km": 1094.0,
+          "lat": 24.7673,
+          "lon": 78.8407
+        },
+        {
+          "station_no": 11,
+          "station_code": "KHGP",
+          "station_name": "KHARGAPUR",
+          "scheduled_arr": "09:20",
+          "actual_delay_min": 156.0,
+          "delay_label": "2.6 hr late",
+          "distance_km": 1130.0,
+          "lat": null,
+          "lon": null
+        },
+        {
+          "station_no": 12,
+          "station_code": "MCSC",
+          "station_name": "CHHATARPUR",
+          "scheduled_arr": "10:35",
+          "actual_delay_min": 120.0,
+          "delay_label": "2.0 hr late",
+          "distance_km": 1177.0,
+          "lat": null,
+          "lon": null
+        },
+        {
+          "station_no": 13,
+          "station_code": "KURJ",
+          "station_name": "KHAJURAHO",
+          "scheduled_arr": "12:10",
+          "actual_delay_min": 125.0,
+          "delay_label": "2.1 hr late",
+          "distance_km": 1208.0,
+          "lat": 24.797,
+          "lon": 79.89
+        },
+        {
+          "station_no": 14,
+          "station_code": "MBA",
+          "station_name": "MAHOBA JN",
+          "scheduled_arr": "13:40",
+          "actual_delay_min": 117.0,
+          "delay_label": "1.9 hr late",
+          "distance_km": 1271.0,
+          "lat": 25.3069,
+          "lon": 79.8491
+        },
+        {
+          "station_no": 15,
+          "station_code": "BNDA",
+          "station_name": "BANDA JN",
+          "scheduled_arr": "14:45",
+          "actual_delay_min": 58.0,
+          "delay_label": "58 min late",
+          "distance_km": 1325.0,
+          "lat": 25.4777,
+          "lon": 80.3362
+        },
+        {
+          "station_no": 16,
+          "station_code": "CKTD",
+          "station_name": "CHITRAKOOTDHAM",
+          "scheduled_arr": "16:08",
+          "actual_delay_min": 46.0,
+          "delay_label": "46 min late",
+          "distance_km": 1394.0,
+          "lat": 25.2176,
+          "lon": 80.9228
+        },
+        {
+          "station_no": 17,
+          "station_code": "MKP",
+          "station_name": "MANIKPUR JN",
+          "scheduled_arr": "16:48",
+          "actual_delay_min": 53.0,
+          "delay_label": "53 min late",
+          "distance_km": 1425.0,
+          "lat": 25.0635,
+          "lon": 81.0937
+        }
+      ],
+      "_isFallback": true
+    },
+    "1028": {
+      "train_no": 1028,
+      "train_name": "GKP DR SPL",
+      "date": "2026-02-07",
+      "total_stops": 3,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "GKP",
+          "station_name": "GORAKHPUR JN",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 0.0,
+          "lat": 26.7593,
+          "lon": 83.3815
+        },
+        {
+          "station_no": 2,
+          "station_code": "DEOS",
+          "station_name": "DEORIA SADAR",
+          "scheduled_arr": "15:22",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 50.0,
+          "lat": 26.5077,
+          "lon": 83.782
+        },
+        {
+          "station_no": 3,
+          "station_code": "BTT",
+          "station_name": "BHATNI JN",
+          "scheduled_arr": "15:46",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 71.0,
+          "lat": 26.3813,
+          "lon": 83.934
+        }
+      ],
+      "_isFallback": true
+    },
+    "1029": {
+      "train_no": 1029,
+      "train_name": "CSMT KOP SPL",
+      "date": "2025-05-25",
+      "total_stops": 1,
+      "stops": [
+        {
+          "station_no": 3,
+          "station_code": "KYN",
+          "station_name": "KALYAN JN",
+          "scheduled_arr": "15:37",
+          "actual_delay_min": 10.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 54.0,
+          "lat": 19.2437,
+          "lon": 73.1355
+        }
+      ],
+      "_isFallback": true
+    },
+    "1042": {
+      "train_no": 1042,
+      "train_name": "SNSI DR SPECIAL",
+      "date": "2026-01-25",
+      "total_stops": 2,
+      "stops": [
+        {
+          "station_no": 12,
+          "station_code": "KYN",
+          "station_name": "KALYAN JN",
+          "scheduled_arr": "05:37",
+          "actual_delay_min": 147.0,
+          "delay_label": "2.5 hr late",
+          "distance_km": 396.0,
+          "lat": 19.2437,
+          "lon": 73.1355
+        },
+        {
+          "station_no": 13,
+          "station_code": "TNA",
+          "station_name": "THANE",
+          "scheduled_arr": "06:02",
+          "actual_delay_min": 145.0,
+          "delay_label": "2.4 hr late",
+          "distance_km": 415.0,
+          "lat": 19.1858,
+          "lon": 72.9754
+        }
+      ],
+      "_isFallback": true
+    },
+    "1053": {
+      "train_no": 1053,
+      "train_name": "DVL DNR SPL",
+      "date": "2026-02-07",
+      "total_stops": 1,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "DVL",
+          "station_name": "DEVLALI",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 0.0,
+          "lat": 19.8975,
+          "lon": 73.8373
+        }
+      ],
+      "_isFallback": true
+    },
+    "1054": {
+      "train_no": 1054,
+      "train_name": "DNR MMR SPL",
+      "date": "2026-02-02",
+      "total_stops": 4,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "DNR",
+          "station_name": "DANAPUR",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 10.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 0.0,
+          "lat": 25.5819,
+          "lon": 85.0446
+        },
+        {
+          "station_no": 2,
+          "station_code": "ARA",
+          "station_name": "ARA JN",
+          "scheduled_arr": "13:05",
+          "actual_delay_min": 37.0,
+          "delay_label": "37 min late",
+          "distance_km": 39.0,
+          "lat": 25.5489,
+          "lon": 84.6626
+        },
+        {
+          "station_no": 3,
+          "station_code": "BXR",
+          "station_name": "BUXAR",
+          "scheduled_arr": "14:15",
+          "actual_delay_min": 58.0,
+          "delay_label": "58 min late",
+          "distance_km": 108.0,
+          "lat": 25.5621,
+          "lon": 83.9822
+        },
+        {
+          "station_no": 4,
+          "station_code": "DDU",
+          "station_name": "PT DEEN DAYAL UPADHYAY JN",
+          "scheduled_arr": "18:30",
+          "actual_delay_min": 20.0,
+          "delay_label": "20 min late",
+          "distance_km": 198.0,
+          "lat": 25.2781,
+          "lon": 83.1193
+        }
+      ],
+      "_isFallback": true
+    },
+    "1129": {
+      "train_no": 1129,
+      "train_name": "CSMT SWV SPL",
+      "date": "2025-09-09",
+      "total_stops": 1,
+      "stops": [
+        {
+          "station_no": 23,
+          "station_code": "SWV",
+          "station_name": "SAWANTWADI ROAD",
+          "scheduled_arr": "12:30",
+          "actual_delay_min": -36.0,
+          "delay_label": "On Time",
+          "distance_km": 655.0,
+          "lat": 15.8665,
+          "lon": 73.7853
+        }
+      ],
+      "_isFallback": true
+    },
+    "1139": {
+      "train_no": 1139,
+      "train_name": "NGP MAO SPECIAL",
+      "date": "2026-02-07",
+      "total_stops": 1,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "NGP",
+          "station_name": "NAGPUR",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 0.0,
+          "lat": 21.1536,
+          "lon": 79.089
+        }
+      ],
+      "_isFallback": true
+    },
+    "1140": {
+      "train_no": 1140,
+      "train_name": "MAO NGP SPECIAL",
+      "date": "2026-02-05",
+      "total_stops": 25,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "MAO",
+          "station_name": "MADGAON",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 132.0,
+          "delay_label": "2.2 hr late",
+          "distance_km": 0.0,
+          "lat": 15.2679,
+          "lon": 73.9707
+        },
+        {
+          "station_no": 2,
+          "station_code": "KRMI",
+          "station_name": "KARMALI",
+          "scheduled_arr": "20:32",
+          "actual_delay_min": 141.0,
+          "delay_label": "2.4 hr late",
+          "distance_km": 41.0,
+          "lat": 15.4902,
+          "lon": 73.9247
+        },
+        {
+          "station_no": 3,
+          "station_code": "THVM",
+          "station_name": "THIVIM",
+          "scheduled_arr": "20:54",
+          "actual_delay_min": 147.0,
+          "delay_label": "2.5 hr late",
+          "distance_km": 65.0,
+          "lat": 15.6296,
+          "lon": 73.8761
+        },
+        {
+          "station_no": 4,
+          "station_code": "SWV",
+          "station_name": "SAWANTWADI ROAD",
+          "scheduled_arr": "21:48",
+          "actual_delay_min": 131.0,
+          "delay_label": "2.2 hr late",
+          "distance_km": 111.0,
+          "lat": 15.8665,
+          "lon": 73.7853
+        },
+        {
+          "station_no": 5,
+          "station_code": "KUDL",
+          "station_name": "KUDAL",
+          "scheduled_arr": "22:10",
+          "actual_delay_min": 130.0,
+          "delay_label": "2.2 hr late",
+          "distance_km": 140.0,
+          "lat": 16.0177,
+          "lon": 73.6781
+        },
+        {
+          "station_no": 6,
+          "station_code": "KKW",
+          "station_name": "KANKAVALI",
+          "scheduled_arr": "22:40",
+          "actual_delay_min": 157.0,
+          "delay_label": "2.6 hr late",
+          "distance_km": 179.0,
+          "lat": 16.2588,
+          "lon": 73.7199
+        },
+        {
+          "station_no": 7,
+          "station_code": "RAJP",
+          "station_name": "RAJAPUR ROAD",
+          "scheduled_arr": "23:20",
+          "actual_delay_min": 176.0,
+          "delay_label": "2.9 hr late",
+          "distance_km": 246.0,
+          "lat": 16.6352,
+          "lon": 73.6266
+        },
+        {
+          "station_no": 8,
+          "station_code": "RN",
+          "station_name": "RATNAGIRI",
+          "scheduled_arr": "00:30",
+          "actual_delay_min": 176.0,
+          "delay_label": "2.9 hr late",
+          "distance_km": 335.0,
+          "lat": 17.0028,
+          "lon": 73.3569
+        },
+        {
+          "station_no": 9,
+          "station_code": "SGR",
+          "station_name": "SANGMESHWAR",
+          "scheduled_arr": "01:20",
+          "actual_delay_min": 210.0,
+          "delay_label": "3.5 hr late",
+          "distance_km": 382.0,
+          "lat": 17.202,
+          "lon": 73.5462
+        },
+        {
+          "station_no": 10,
+          "station_code": "CHI",
+          "station_name": "CHIPLUN",
+          "scheduled_arr": "02:00",
+          "actual_delay_min": 217.0,
+          "delay_label": "3.6 hr late",
+          "distance_km": 441.0,
+          "lat": 17.5425,
+          "lon": 73.5224
+        },
+        {
+          "station_no": 11,
+          "station_code": "KHED",
+          "station_name": "KHED",
+          "scheduled_arr": "02:30",
+          "actual_delay_min": 212.0,
+          "delay_label": "3.5 hr late",
+          "distance_km": 482.0,
+          "lat": 17.7121,
+          "lon": 73.4088
+        },
+        {
+          "station_no": 12,
+          "station_code": "MNI",
+          "station_name": "MANGAON",
+          "scheduled_arr": "03:50",
+          "actual_delay_min": 191.0,
+          "delay_label": "3.2 hr late",
+          "distance_km": 578.0,
+          "lat": 18.2473,
+          "lon": 73.2757
+        },
+        {
+          "station_no": 13,
+          "station_code": "ROHA",
+          "station_name": "ROHA",
+          "scheduled_arr": "05:15",
+          "actual_delay_min": 127.0,
+          "delay_label": "2.1 hr late",
+          "distance_km": 620.0,
+          "lat": 18.4465,
+          "lon": 73.1236
+        },
+        {
+          "station_no": 14,
+          "station_code": "PNVL",
+          "station_name": "PANVEL",
+          "scheduled_arr": "07:00",
+          "actual_delay_min": 140.0,
+          "delay_label": "2.3 hr late",
+          "distance_km": 697.0,
+          "lat": 18.9909,
+          "lon": 73.1218
+        },
+        {
+          "station_no": 15,
+          "station_code": "KYN",
+          "station_name": "KALYAN JN",
+          "scheduled_arr": "08:17",
+          "actual_delay_min": 156.0,
+          "delay_label": "2.6 hr late",
+          "distance_km": 734.0,
+          "lat": 19.2437,
+          "lon": 73.1355
+        },
+        {
+          "station_no": 16,
+          "station_code": "IGP",
+          "station_name": "IGATPURI",
+          "scheduled_arr": "10:00",
+          "actual_delay_min": 160.0,
+          "delay_label": "2.7 hr late",
+          "distance_km": 817.0,
+          "lat": 19.6941,
+          "lon": 73.5624
+        },
+        {
+          "station_no": 17,
+          "station_code": "NK",
+          "station_name": "NASIK ROAD",
+          "scheduled_arr": "11:08",
+          "actual_delay_min": 191.0,
+          "delay_label": "3.2 hr late",
+          "distance_km": 868.0,
+          "lat": 19.9476,
+          "lon": 73.8419
+        },
+        {
+          "station_no": 18,
+          "station_code": "BSL",
+          "station_name": "BHUSAVAL JN",
+          "scheduled_arr": "14:35",
+          "actual_delay_min": 334.0,
+          "delay_label": "5.6 hr late",
+          "distance_km": 1125.0,
+          "lat": 21.0393,
+          "lon": 75.7849
+        },
+        {
+          "station_no": 19,
+          "station_code": "MKU",
+          "station_name": "MALKAPUR",
+          "scheduled_arr": "15:20",
+          "actual_delay_min": 347.0,
+          "delay_label": "5.8 hr late",
+          "distance_km": 1175.0,
+          "lat": 20.892,
+          "lon": 76.2029
+        },
+        {
+          "station_no": 20,
+          "station_code": "SEG",
+          "station_name": "SHEGAON",
+          "scheduled_arr": "15:35",
+          "actual_delay_min": 382.0,
+          "delay_label": "6.4 hr late",
+          "distance_km": 1227.0,
+          "lat": 20.8017,
+          "lon": 76.6903
+        },
+        {
+          "station_no": 21,
+          "station_code": "AK",
+          "station_name": "AKOLA JN",
+          "scheduled_arr": "16:48",
+          "actual_delay_min": 363.0,
+          "delay_label": "6.0 hr late",
+          "distance_km": 1264.0,
+          "lat": 20.7231,
+          "lon": 77.0055
+        },
+        {
+          "station_no": 22,
+          "station_code": "BD",
+          "station_name": "BADNERA JN",
+          "scheduled_arr": "18:22",
+          "actual_delay_min": 380.0,
+          "delay_label": "6.3 hr late",
+          "distance_km": 1343.0,
+          "lat": 20.8568,
+          "lon": 77.7323
+        },
+        {
+          "station_no": 23,
+          "station_code": "DMN",
+          "station_name": "DHAMANGAON",
+          "scheduled_arr": "18:50",
+          "actual_delay_min": 417.0,
+          "delay_label": "7.0 hr late",
+          "distance_km": 1389.0,
+          "lat": 20.7847,
+          "lon": 78.1381
+        },
+        {
+          "station_no": 24,
+          "station_code": "PLO",
+          "station_name": "PULGAON JN",
+          "scheduled_arr": "19:00",
+          "actual_delay_min": 427.0,
+          "delay_label": "7.1 hr late",
+          "distance_km": 1409.0,
+          "lat": 20.7267,
+          "lon": 78.3181
+        },
+        {
+          "station_no": 25,
+          "station_code": "WR",
+          "station_name": "WARDHA JN",
+          "scheduled_arr": "19:28",
+          "actual_delay_min": 437.0,
+          "delay_label": "7.3 hr late",
+          "distance_km": 1438.0,
+          "lat": 20.7328,
+          "lon": 78.5942
+        }
+      ],
+      "_isFallback": true
+    },
+    "1211": {
+      "train_no": 1211,
+      "train_name": "BD NK SPL",
+      "date": "2026-02-07",
+      "total_stops": 18,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "BD",
+          "station_name": "BADNERA JN",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 129.0,
+          "delay_label": "2.1 hr late",
+          "distance_km": 0.0,
+          "lat": 20.8568,
+          "lon": 77.7323
+        },
+        {
+          "station_no": 2,
+          "station_code": "MZR",
+          "station_name": "MURTAJAPUR",
+          "scheduled_arr": "10:30",
+          "actual_delay_min": 145.0,
+          "delay_label": "2.4 hr late",
+          "distance_km": 41.0,
+          "lat": 20.7365,
+          "lon": 77.3548
+        },
+        {
+          "station_no": 3,
+          "station_code": "BGN",
+          "station_name": "BORGAON",
+          "scheduled_arr": "10:49",
+          "actual_delay_min": 143.0,
+          "delay_label": "2.4 hr late",
+          "distance_km": 60.0,
+          "lat": 20.7291,
+          "lon": 77.1797
+        },
+        {
+          "station_no": 4,
+          "station_code": "AK",
+          "station_name": "AKOLA JN",
+          "scheduled_arr": "11:02",
+          "actual_delay_min": 157.0,
+          "delay_label": "2.6 hr late",
+          "distance_km": 79.0,
+          "lat": 20.7231,
+          "lon": 77.0055
+        },
+        {
+          "station_no": 5,
+          "station_code": "SEG",
+          "station_name": "SHEGAON",
+          "scheduled_arr": "11:33",
+          "actual_delay_min": 162.0,
+          "delay_label": "2.7 hr late",
+          "distance_km": 116.0,
+          "lat": 20.8017,
+          "lon": 76.6903
+        },
+        {
+          "station_no": 6,
+          "station_code": "NN",
+          "station_name": "NANDURA",
+          "scheduled_arr": "12:03",
+          "actual_delay_min": 157.0,
+          "delay_label": "2.6 hr late",
+          "distance_km": 141.0,
+          "lat": 20.8389,
+          "lon": 76.4602
+        },
+        {
+          "station_no": 7,
+          "station_code": "MKU",
+          "station_name": "MALKAPUR",
+          "scheduled_arr": "12:38",
+          "actual_delay_min": 159.0,
+          "delay_label": "2.6 hr late",
+          "distance_km": 168.0,
+          "lat": 20.892,
+          "lon": 76.2029
+        },
+        {
+          "station_no": 8,
+          "station_code": "BDWD",
+          "station_name": "BODWAD",
+          "scheduled_arr": "13:37",
+          "actual_delay_min": 119.0,
+          "delay_label": "2.0 hr late",
+          "distance_km": 188.0,
+          "lat": 20.9036,
+          "lon": 76.017
+        },
+        {
+          "station_no": 9,
+          "station_code": "BSL",
+          "station_name": "BHUSAVAL JN",
+          "scheduled_arr": "15:05",
+          "actual_delay_min": 69.0,
+          "delay_label": "1.1 hr late",
+          "distance_km": 219.0,
+          "lat": 21.0393,
+          "lon": 75.7849
+        },
+        {
+          "station_no": 10,
+          "station_code": "JL",
+          "station_name": "JALGAON JN",
+          "scheduled_arr": "15:35",
+          "actual_delay_min": 74.0,
+          "delay_label": "1.2 hr late",
+          "distance_km": 243.0,
+          "lat": 21.0181,
+          "lon": 75.5629
+        },
+        {
+          "station_no": 11,
+          "station_code": "PC",
+          "station_name": "PACHORA JN",
+          "scheduled_arr": "16:06",
+          "actual_delay_min": 112.0,
+          "delay_label": "1.9 hr late",
+          "distance_km": 291.0,
+          "lat": 20.6684,
+          "lon": 75.3483
+        },
+        {
+          "station_no": 12,
+          "station_code": "KJ",
+          "station_name": "KAJGAON",
+          "scheduled_arr": "16:19",
+          "actual_delay_min": 129.0,
+          "delay_label": "2.1 hr late",
+          "distance_km": 317.0,
+          "lat": 20.5738,
+          "lon": 75.1404
+        },
+        {
+          "station_no": 13,
+          "station_code": "CSN",
+          "station_name": "CHALISGAON JN",
+          "scheduled_arr": "16:39",
+          "actual_delay_min": 139.0,
+          "delay_label": "2.3 hr late",
+          "distance_km": 336.0,
+          "lat": 20.4641,
+          "lon": 74.999
+        },
+        {
+          "station_no": 14,
+          "station_code": "NGN",
+          "station_name": "NANDGAON",
+          "scheduled_arr": "17:20",
+          "actual_delay_min": 135.0,
+          "delay_label": "2.2 hr late",
+          "distance_km": 378.0,
+          "lat": 20.3076,
+          "lon": 74.6595
+        },
+        {
+          "station_no": 15,
+          "station_code": "MMR",
+          "station_name": "MANMAD JN",
+          "scheduled_arr": "17:50",
+          "actual_delay_min": 137.0,
+          "delay_label": "2.3 hr late",
+          "distance_km": 403.0,
+          "lat": 20.2499,
+          "lon": 74.4383
+        },
+        {
+          "station_no": 16,
+          "station_code": "LS",
+          "station_name": "LASALGAON",
+          "scheduled_arr": "18:05",
+          "actual_delay_min": 143.0,
+          "delay_label": "2.4 hr late",
+          "distance_km": 428.0,
+          "lat": 20.1548,
+          "lon": 74.226
+        },
+        {
+          "station_no": 17,
+          "station_code": "NR",
+          "station_name": "NIPHAD",
+          "scheduled_arr": "18:25",
+          "actual_delay_min": 138.0,
+          "delay_label": "2.3 hr late",
+          "distance_km": 445.0,
+          "lat": 20.0966,
+          "lon": 74.0795
+        },
+        {
+          "station_no": 18,
+          "station_code": "NK",
+          "station_name": "NASIK ROAD",
+          "scheduled_arr": "19:05",
+          "actual_delay_min": 125.0,
+          "delay_label": "2.1 hr late",
+          "distance_km": 476.0,
+          "lat": 19.9476,
+          "lon": 73.8419
+        }
+      ],
+      "_isFallback": true
+    },
+    "1212": {
+      "train_no": 1212,
+      "train_name": "NK BD SPL",
+      "date": "2026-02-07",
+      "total_stops": 18,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "NK",
+          "station_name": "NASIK ROAD",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 0.0,
+          "lat": 19.9476,
+          "lon": 73.8419
+        },
+        {
+          "station_no": 2,
+          "station_code": "NR",
+          "station_name": "NIPHAD",
+          "scheduled_arr": "21:38",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 31.0,
+          "lat": 20.0966,
+          "lon": 74.0795
+        },
+        {
+          "station_no": 3,
+          "station_code": "LS",
+          "station_name": "LASALGAON",
+          "scheduled_arr": "21:53",
+          "actual_delay_min": 0.0,
+          "delay_label": "On Time",
+          "distance_km": 48.0,
+          "lat": 20.1548,
+          "lon": 74.226
+        },
+        {
+          "station_no": 4,
+          "station_code": "MMR",
+          "station_name": "MANMAD JN",
+          "scheduled_arr": "22:18",
+          "actual_delay_min": 13.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 73.0,
+          "lat": 20.2499,
+          "lon": 74.4383
+        },
+        {
+          "station_no": 5,
+          "station_code": "NGN",
+          "station_name": "NANDGAON",
+          "scheduled_arr": "22:35",
+          "actual_delay_min": 12.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 98.0,
+          "lat": 20.3076,
+          "lon": 74.6595
+        },
+        {
+          "station_no": 6,
+          "station_code": "CSN",
+          "station_name": "CHALISGAON JN",
+          "scheduled_arr": "23:09",
+          "actual_delay_min": 10.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 140.0,
+          "lat": 20.4641,
+          "lon": 74.999
+        },
+        {
+          "station_no": 7,
+          "station_code": "KJ",
+          "station_name": "KAJGAON",
+          "scheduled_arr": "23:19",
+          "actual_delay_min": 10.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 159.0,
+          "lat": 20.5738,
+          "lon": 75.1404
+        },
+        {
+          "station_no": 8,
+          "station_code": "PC",
+          "station_name": "PACHORA JN",
+          "scheduled_arr": "23:36",
+          "actual_delay_min": 10.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 185.0,
+          "lat": 20.6684,
+          "lon": 75.3483
+        },
+        {
+          "station_no": 9,
+          "station_code": "JL",
+          "station_name": "JALGAON JN",
+          "scheduled_arr": "00:10",
+          "actual_delay_min": 9.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 233.0,
+          "lat": 21.0181,
+          "lon": 75.5629
+        },
+        {
+          "station_no": 10,
+          "station_code": "BSL",
+          "station_name": "BHUSAVAL JN",
+          "scheduled_arr": "00:40",
+          "actual_delay_min": 51.0,
+          "delay_label": "51 min late",
+          "distance_km": 257.0,
+          "lat": 21.0393,
+          "lon": 75.7849
+        },
+        {
+          "station_no": 11,
+          "station_code": "BDWD",
+          "station_name": "BODWAD",
+          "scheduled_arr": "01:07",
+          "actual_delay_min": 55.0,
+          "delay_label": "55 min late",
+          "distance_km": 288.0,
+          "lat": 20.9036,
+          "lon": 76.017
+        },
+        {
+          "station_no": 12,
+          "station_code": "MKU",
+          "station_name": "MALKAPUR",
+          "scheduled_arr": "01:25",
+          "actual_delay_min": 61.0,
+          "delay_label": "1.0 hr late",
+          "distance_km": 308.0,
+          "lat": 20.892,
+          "lon": 76.2029
+        },
+        {
+          "station_no": 13,
+          "station_code": "NN",
+          "station_name": "NANDURA",
+          "scheduled_arr": "01:50",
+          "actual_delay_min": 59.0,
+          "delay_label": "59 min late",
+          "distance_km": 336.0,
+          "lat": 20.8389,
+          "lon": 76.4602
+        },
+        {
+          "station_no": 14,
+          "station_code": "SEG",
+          "station_name": "SHEGAON",
+          "scheduled_arr": "02:13",
+          "actual_delay_min": 65.0,
+          "delay_label": "1.1 hr late",
+          "distance_km": 360.0,
+          "lat": 20.8017,
+          "lon": 76.6903
+        },
+        {
+          "station_no": 15,
+          "station_code": "AK",
+          "station_name": "AKOLA JN",
+          "scheduled_arr": "02:50",
+          "actual_delay_min": 79.0,
+          "delay_label": "1.3 hr late",
+          "distance_km": 397.0,
+          "lat": 20.7231,
+          "lon": 77.0055
+        },
+        {
+          "station_no": 16,
+          "station_code": "BGN",
+          "station_name": "BORGAON",
+          "scheduled_arr": "03:02",
+          "actual_delay_min": 85.0,
+          "delay_label": "1.4 hr late",
+          "distance_km": 416.0,
+          "lat": 20.7291,
+          "lon": 77.1797
+        },
+        {
+          "station_no": 17,
+          "station_code": "MZR",
+          "station_name": "MURTAJAPUR",
+          "scheduled_arr": "03:25",
+          "actual_delay_min": 180.0,
+          "delay_label": "3.0 hr late",
+          "distance_km": 435.0,
+          "lat": 20.7365,
+          "lon": 77.3548
+        },
+        {
+          "station_no": 18,
+          "station_code": "BD",
+          "station_name": "BADNERA JN",
+          "scheduled_arr": "04:35",
+          "actual_delay_min": 155.0,
+          "delay_label": "2.6 hr late",
+          "distance_km": 476.0,
+          "lat": 20.8568,
+          "lon": 77.7323
+        }
+      ],
+      "_isFallback": true
+    },
+    "1419": {
+      "train_no": 1419,
+      "train_name": "PUNE NGP SF SPL",
+      "date": "2026-01-03",
+      "total_stops": 1,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "PUNE",
+          "station_name": "PUNE JN",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 2.0,
+          "delay_label": "Slight Delay",
+          "distance_km": 0.0,
+          "lat": 18.5284,
+          "lon": 73.8743
+        }
+      ],
+      "_isFallback": true
+    },
+    "1420": {
+      "train_no": 1420,
+      "train_name": "NGP PUNE SF SPL",
+      "date": "2026-01-04",
+      "total_stops": 4,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "NGP",
+          "station_name": "NAGPUR",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 66.0,
+          "delay_label": "1.1 hr late",
+          "distance_km": 0.0,
+          "lat": 21.1536,
+          "lon": 79.089
+        },
+        {
+          "station_no": 2,
+          "station_code": "WR",
+          "station_name": "WARDHA JN",
+          "scheduled_arr": "09:50",
+          "actual_delay_min": 71.0,
+          "delay_label": "1.2 hr late",
+          "distance_km": 79.0,
+          "lat": 20.7328,
+          "lon": 78.5942
+        },
+        {
+          "station_no": 3,
+          "station_code": "DMN",
+          "station_name": "DHAMANGAON",
+          "scheduled_arr": "10:28",
+          "actual_delay_min": 82.0,
+          "delay_label": "1.4 hr late",
+          "distance_km": 129.0,
+          "lat": 20.7847,
+          "lon": 78.1381
+        },
+        {
+          "station_no": 4,
+          "station_code": "BD",
+          "station_name": "BADNERA JN",
+          "scheduled_arr": "11:25",
+          "actual_delay_min": 19.0,
+          "delay_label": "19 min late",
+          "distance_km": 175.0,
+          "lat": 20.8568,
+          "lon": 77.7323
+        }
+      ],
+      "_isFallback": true
+    },
+    "1435": {
+      "train_no": 1435,
+      "train_name": "SUR LTT SPECIAL",
+      "date": "2026-02-03",
+      "total_stops": 12,
+      "stops": [
+        {
+          "station_no": 1,
+          "station_code": "SUR",
+          "station_name": "SOLAPUR JN",
+          "scheduled_arr": "nan",
+          "actual_delay_min": 56.0,
+          "delay_label": "56 min late",
+          "distance_km": 0.0,
+          "lat": 17.6645,
+          "lon": 75.8934
+        },
+        {
+          "station_no": 2,
+          "station_code": "AKOR",
+          "station_name": "AKALKOT ROAD",
+          "scheduled_arr": "09:48",
+          "actual_delay_min": 62.0,
+          "delay_label": "1.0 hr late",
+          "distance_km": 36.0,
+          "lat": 17.4502,
+          "lon": 76.1377
+        },
+        {
+          "station_no": 3,
+          "station_code": "GUR",
+          "station_name": "GANAGAPUR ROAD",
+          "scheduled_arr": "10:33",
+          "actual_delay_min": 96.0,
+          "delay_label": "1.6 hr late",
+          "distance_km": 87.0,
+          "lat": 17.3404,
+          "lon": 76.5903
+        },
+        {
+          "station_no": 4,
+          "station_code": "KLBG",
+          "station_name": "KALABURAGI JN",
+          "scheduled_arr": "11:05",
+          "actual_delay_min": 146.0,
+          "delay_label": "2.4 hr late",
+          "distance_km": 113.0,
+          "lat": null,
+          "lon": null
+        },
+        {
+          "station_no": 5,
+          "station_code": "HMBD",
+          "station_name": "HUMNABAD",
+          "scheduled_arr": "12:39",
+          "actual_delay_min": 169.0,
+          "delay_label": "2.8 hr late",
+          "distance_km": 187.0,
+          "lat": null,
+          "lon": null
+        },
+        {
+          "station_no": 6,
+          "station_code": "BIDR",
+          "station_name": "BIDAR",
+          "scheduled_arr": "14:00",
+          "actual_delay_min": 191.0,
+          "delay_label": "3.2 hr late",
+          "distance_km": 239.0,
+          "lat": 17.9117,
+          "lon": 77.5138
+        },
+        {
+          "station_no": 7,
+          "station_code": "BHLK",
+          "station_name": "BHALKI",
+          "scheduled_arr": "14:49",
+          "actual_delay_min": 202.0,
+          "delay_label": "3.4 hr late",
+          "distance_km": 276.0,
+          "lat": 18.047,
+          "lon": 77.2281
+        },
+        {
+          "station_no": 8,
+          "station_code": "UDGR",
+          "station_name": "UDGIR",
+          "scheduled_arr": "15:24",
+          "actual_delay_min": 211.0,
+          "delay_label": "3.5 hr late",
+          "distance_km": 320.0,
+          "lat": 18.3906,
+          "lon": 77.1099
+        },
+        {
+          "station_no": 9,
+          "station_code": "LTRR",
+          "station_name": "LATUR ROAD",
+          "scheduled_arr": "16:30",
+          "actual_delay_min": 200.0,
+          "delay_label": "3.3 hr late",
+          "distance_km": 353.0,
+          "lat": 18.5065,
+          "lon": 76.8453
+        },
+        {
+          "station_no": 10,
+          "station_code": "LUR",
+          "station_name": "LATUR",
+          "scheduled_arr": "17:30",
+          "actual_delay_min": 173.0,
+          "delay_label": "2.9 hr late",
+          "distance_km": 385.0,
+          "lat": 18.4292,
+          "lon": 76.556
+        },
+        {
+          "station_no": 11,
+          "station_code": "MRX",
+          "station_name": "MURUD",
+          "scheduled_arr": "18:00",
+          "actual_delay_min": 210.0,
+          "delay_label": "3.5 hr late",
+          "distance_km": 422.0,
+          "lat": 18.3805,
+          "lon": 76.2516
+        },
+        {
+          "station_no": 12,
+          "station_code": "DRSV",
+          "station_name": "DHARASHIV",
+          "scheduled_arr": "18:55",
+          "actual_delay_min": 193.0,
+          "delay_label": "3.2 hr late",
+          "distance_km": 465.0,
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "_isFallback": true
+    }
+  }
+}

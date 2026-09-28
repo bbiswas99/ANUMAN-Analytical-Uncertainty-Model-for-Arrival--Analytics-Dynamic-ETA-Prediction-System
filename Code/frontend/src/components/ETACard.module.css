@@ -1,0 +1,49 @@
+.card { position: relative; }
+
+.demoTag {
+  position: absolute;
+  top: var(--sp-3); right: var(--sp-3);
+}
+
+.skeletonHeader {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: var(--sp-4);
+}
+.skeletonRow {
+  display: flex; justify-content: space-between; margin-top: var(--sp-3);
+}
+
+.header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--sp-3);
+  margin-bottom: var(--sp-4);
+}
+.trainInfo { display: flex; flex-direction: column; gap: 2px; }
+.trainNo { font-size: 12px; font-weight: 700; color: var(--clr-primary); letter-spacing: 0.04em; }
+.trainName { font-size: 14px; font-weight: 600; color: var(--clr-text); line-height: 1.3; }
+
+.etaBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--sp-4) 0;
+  gap: var(--sp-1);
+  margin-bottom: var(--sp-4);
+}
+.etaLabel { font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--clr-text-3); }
+.etaTime { font-size: 52px; font-weight: 800; color: var(--clr-primary); line-height: 1; letter-spacing: -2px; }
+.delayText { font-size: 13px; font-weight: 500; color: var(--clr-text-2); margin-top: 2px; }
+
+.section { margin-bottom: var(--sp-4); }
+
+.footer {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-4);
+  flex-wrap: wrap;
+}
+.footerItem { display: flex; flex-direction: column; gap: 1px; }
+.footerLabel { font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--clr-text-3); font-weight: 600; }
+.footerValue { font-size: 13px; font-weight: 600; color: var(--clr-text); }

@@ -1,0 +1,73 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* ─── Top bar ─────────────────────────────────────────────────── */
+.topbar {
+  height: var(--topbar-h);
+  background: var(--clr-surface);
+  border-bottom: 1px solid var(--clr-border);
+  display: flex;
+  align-items: center;
+  padding: 0 var(--sp-6);
+  gap: var(--sp-6);
+  box-shadow: var(--shadow-sm);
+  z-index: 100;
+  flex-shrink: 0;
+}
+
+.brand { display: flex; align-items: center; gap: var(--sp-3); text-decoration: none; }
+.logo  { font-size: 26px; line-height: 1; }
+.brandText { display: flex; flex-direction: column; gap: 1px; }
+.brandName {
+  font-size: 18px; font-weight: 800; color: var(--clr-primary);
+  letter-spacing: -0.5px; line-height: 1;
+}
+.brandSub { font-size: 10px; color: var(--clr-text-3); letter-spacing: 0.04em; }
+
+/* ─── Tabs ────────────────────────────────────────────────────── */
+.tabs {
+  display: flex;
+  gap: var(--sp-1);
+  flex: 1;
+  justify-content: center;
+}
+.tab {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1px;
+  padding: var(--sp-2) var(--sp-5);
+  border-radius: var(--r-sm);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--clr-text-2);
+  transition: all var(--dur-fast) var(--ease);
+  border-bottom: 2px solid transparent;
+}
+.tab:hover { background: var(--clr-bg); color: var(--clr-text); }
+.tabActive {
+  color: var(--clr-primary);
+  font-weight: 700;
+  border-bottom-color: var(--clr-primary);
+  background: var(--clr-primary-fade);
+}
+.tabDesc { font-size: 10px; color: var(--clr-text-3); font-weight: 400; }
+.tabActive .tabDesc { color: var(--clr-primary-light); }
+
+/* ─── Right side ──────────────────────────────────────────────── */
+.topbarRight { display: flex; align-items: center; gap: var(--sp-4); }
+.corridor    { display: flex; align-items: center; gap: var(--sp-2); }
+.corridorDot {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: var(--clr-on-time);
+  box-shadow: 0 0 0 3px rgba(16,185,129,0.2);
+  animation: pulse 2s ease infinite;
+}
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 0 0 3px rgba(16,185,129,0.2); }
+  50%       { box-shadow: 0 0 0 6px rgba(16,185,129,0.1); }
+}
+.corridorLabel { font-size: 12px; color: var(--clr-text-2); font-weight: 500; white-space: nowrap; }

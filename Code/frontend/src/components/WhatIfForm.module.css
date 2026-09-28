@@ -1,0 +1,31 @@
+.panel { display: flex; flex-direction: column; gap: var(--sp-4); }
+.subtitle { font-size: 13px; color: var(--clr-text-2); margin-top: -8px; }
+
+.form { display: flex; flex-direction: column; gap: var(--sp-5); }
+.field { display: flex; flex-direction: column; gap: var(--sp-2); }
+.label { font-size: 13px; font-weight: 500; color: var(--clr-text); }
+
+.inputRow { display: flex; align-items: center; gap: var(--sp-3); }
+.range {
+  flex: 1;
+  accent-color: var(--clr-primary);
+  cursor: pointer;
+}
+.range:disabled { opacity: 0.4; cursor: not-allowed; }
+.rangeValue {
+  font-size: 14px; font-weight: 700; color: var(--clr-text);
+  min-width: 72px; text-align: right;
+}
+.rangeValue.late  { color: var(--clr-late); }
+.rangeValue.early { color: var(--clr-on-time); }
+
+.rangeTicks {
+  display: flex; justify-content: space-between;
+  font-size: 10px; color: var(--clr-text-3);
+  padding: 0 2px;
+}
+
+.fieldError {
+  font-size: 12px; color: var(--clr-late);
+  padding: 2px 0;
+}
